@@ -1,36 +1,49 @@
 # SunuerEasy
 
-#### Description
-Sunuer Easy 旨在简化开发中的重复性工作，如代码生成、数据库字段管理、数据文件组织等。通过自动化提升开发效率，减少重复劳动，让开发者专注于业务逻辑和创新。
+#### Introduction
+Sunuer Easy is designed to simplify repetitive tasks in development, such as code generation, database field management, and data file organization. By automating these processes, it enhances development efficiency, reduces repetitive work, and allows developers to focus on business logic and innovation. When used alongside Sunuer Manage, it enables more efficient database management and system development.
 
-#### Software Architecture
-Software architecture description
+#### Key Features
 
-#### Installation
+Automated Code Generation: Quickly generates base code from database structures, reducing manual coding effort.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Database Field Management: Provides an intuitive interface for managing database tables and fields, improving maintenance efficiency.
 
-#### Instructions
+Quick Backup & Restore: Allows fast backups of database table structures and rapid restoration of databases.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Seamless Integration: Works with Sunuer Manage to optimize backend management and data operations.
 
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+Cross-Platform Support: Compatible with Windows and Linux, making it suitable for various development environments.
 
 
-#### Gitee Feature
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### System Requirements
+.NET 8
+
+Windows / Linux
+
+SQL Server
+
+
+#### Free for Commercial Use
+Sunuer Easy is free for anyone to use, including commercial applications.
+
+#### Documentation
+https://www.sunuer.com/SunuerEasy/
+
+
+#### Contact
+
+sunuer@sunuer.com
+
+#### Acknowledgments
+Thanks to the support of the following components:
+- NET Core
+- ASP.NET Core
+- NPOI
+- LayUI
+- layuiadmin
+- Sortable
+- jQuery
+- JSEncrypt
+...
