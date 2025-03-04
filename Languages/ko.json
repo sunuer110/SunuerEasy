@@ -1,0 +1,634 @@
+[
+  {
+    "Key": "CanShuCuoWu",
+    "Translation": "전달된 매개변수 오류"
+  },
+  {
+    "Key": "SheZhiChengGong",
+    "Translation": "설정 성공"
+  },
+  {
+    "Key": "CeBianShenSuo",
+    "Translation": "측면 확장/축소"
+  },
+  {
+    "Key": "GuanWang",
+    "Translation": "공식 웹사이트"
+  },
+  {
+    "Key": "YuYanSheZhi",
+    "Translation": "언어 설정"
+  },
+  {
+    "Key": "Shuaxin",
+    "Translation": "새로고침"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "데이터 유형"
+  },
+  {
+    "Key": "MoRenCanShu",
+    "Translation": "기본 매개변수"
+  },
+  {
+    "Key": "QuanBuXiangMu",
+    "Translation": "모든 프로젝트"
+  },
+  {
+    "Key": "GuanBiDangQianBiaoQian",
+    "Translation": "현재 탭 닫기"
+  },
+  {
+    "Key": "GuanBiQiTaBiaoQian",
+    "Translation": "다른 탭 닫기"
+  },
+  {
+    "Key": "GuanBiQuanBuBiaoQian",
+    "Translation": "모든 탭 닫기"
+  },
+  {
+    "Key": "KuaiJieFangShi",
+    "Translation": "바로 가기"
+  },
+  {
+    "Key": "XiangMuGuanLi",
+    "Translation": "프로젝트 관리"
+  },
+  {
+    "Key": "MianZeShengMing",
+    "Translation": "면책 조항"
+  },
+  {
+    "Key": "ShiYongQianYueDu",
+    "Translation": "사용 전에 읽어주세요"
+  },
+  {
+    "Key": "BanBenXinXi",
+    "Translation": "버전 정보"
+  },
+  {
+    "Key": "GongJuMingCheng",
+    "Translation": "도구 이름"
+  },
+  {
+    "Key": "DangQianBangBen",
+    "Translation": "현재 버전"
+  },
+  {
+    "Key": "GengXinRiZhi",
+    "Translation": "업데이트 로그"
+  },
+  {
+    "Key": "JiYuKuangJia",
+    "Translation": "프레임워크 기반"
+  },
+  {
+    "Key": "QianDuanKuangJia",
+    "Translation": "프론트엔드 프레임워크"
+  },
+  {
+    "Key": "ZhuYaoTeSe",
+    "Translation": "주요 특징"
+  },
+  {
+    "Key": "ZhuYaoTeSes",
+    "Translation": "빠른 코드 생성, 기존 프로젝트와의 호환성, 코딩 효율성 향상."
+  },
+  {
+    "Key": "HuoQuQuDao",
+    "Translation": "획득 경로"
+  },
+  {
+    "Key": "ChanPinDongTai",
+    "Translation": "제품 동향"
+  },
+  {
+    "Key": "HuoDe",
+    "Translation": "획득"
+  },
+  {
+    "Key": "ZuoZheXinYu",
+    "Translation": "작가의 이야기"
+  },
+  {
+    "Key": "YaozhichiO",
+    "Translation": "꼭 지원 부탁드립니다!"
+  },
+  {
+    "Key": "ZuoZheXinYu1",
+    "Translation": "오랜 개발 경험 동안 많은 개발 작업이 반복적이라는 것을 발견했습니다. 예를 들어, 기본 코드 생성, 데이터베이스 필드 관리, 저장된 데이터 파일 검색 등입니다. 이러한 작업은 단순해 보이지만 많은 시간과 노력을 요구하며, 개발 효율성과 프로젝트 진행에 심각한 영향을 미칩니다."
+  },
+  {
+    "Key": "ZuoZheXinYu2",
+    "Translation": "그래서 저는 이러한 번거로운 작업을 간소화하기 위해 Sunuer Easy라는 스마트 코드 생성 도구를 개발하기로 했습니다. 이 도구는 자동화를 통해 개발자가 코드를 빠르게 생성하고, 데이터베이스 필드를 관리하며, 데이터 파일을 정리하도록 도와 시간을 절약하고 비즈니스 로직과 혁신에 집중할 수 있게 합니다."
+  },
+  {
+    "Key": "ZuoZheXinYu3",
+    "Translation": "Sunuer Easy의 목표는 개발 효율성을 높이고 반복 작업을 줄이며, 빠르게 변화하는 기술 환경에서 개발자가 보다 효율적으로 작업하고 더 많은 창의력을 발휘할 수 있도록 돕는 것입니다."
+  },
+  {
+    "Key": "ChengGong",
+    "Translation": "성공"
+  },
+  {
+    "Key": "ShuJuWenJianBuCunZai",
+    "Translation": "데이터 파일이 존재하지 않습니다"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingXiangMu",
+    "Translation": "지정된 프로젝트를 찾을 수 없습니다"
+  },
+  {
+    "Key": "XiuGaiChengGong",
+    "Translation": "수정 성공"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "삭제 성공"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingBiao",
+    "Translation": "지정된 테이블을 찾을 수 없습니다"
+  },
+  {
+    "Key": "XiangMuWenJianWeiZhaoDao",
+    "Translation": "프로젝트 파일을 찾을 수 없습니다"
+  },
+  {
+    "Key": "MoXing",
+    "Translation": "모델"
+  },
+  {
+    "Key": "ShuoMing",
+    "Translation": "설명"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "추가"
+  },
+  {
+    "Key": "GengXing",
+    "Translation": "업데이트"
+  },
+  {
+    "Key": "ZhuJianZiDuanWeiDingYi",
+    "Translation": "기본 키 필드가 정의되지 않았습니다"
+  },
+  {
+    "Key": "ShanChu",
+    "Translation": "삭제"
+  },
+  {
+    "Key": "BianJi",
+    "Translation": "편집"
+  },
+  {
+    "Key": "ShanChuYiTiaoJiLu",
+    "Translation": "기록 하나 삭제"
+  },
+  {
+    "Key": "XiangMuMingCheng",
+    "Translation": "프로젝트 이름"
+  },
+  {
+    "Key": "XiangMuMingChengCn",
+    "Translation": "프로젝트 별칭"
+  },
+  {
+    "Key": "GengXinRen",
+    "Translation": "업데이트한 사람"
+  },
+  {
+    "Key": "YingXiangHangShu",
+    "Translation": "영향을 받은 행 수"
+  },
+  {
+    "Key": "HuoQu",
+    "Translation": "영향을 받은 행 수"
+  },
+  {
+    "Key": "YiTiaoJiLu",
+    "Translation": "한 개의 기록"
+  },
+  {
+    "Key": "BiaoMingCheng",
+    "Translation": "테이블 이름"
+  },
+  {
+    "Key": "DuQuJiLuLieBiao",
+    "Translation": "기록 목록 읽기"
+  },
+  {
+    "Key": "DanTiaoShuJu",
+    "Translation": "단일 데이터"
+  },
+  {
+    "Key": "ZhuJianZhi",
+    "Translation": "기본 키 값"
+  },
+  {
+    "Key": "ZhunBeiCanShu",
+    "Translation": "매개변수 준비"
+  },
+  {
+    "Key": "YeMa",
+    "Translation": "페이지 번호"
+  },
+  {
+    "Key": "MeiYeShuLiang",
+    "Translation": "페이지당 수량"
+  },
+  {
+    "Key": "LieBiao",
+    "Translation": "목록"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "수량"
+  },
+  {
+    "Key": "FanHui",
+    "Translation": "반환"
+  },
+  {
+    "Key": "DanTiao",
+    "Translation": "단일"
+  },
+  {
+    "Key": "XinXiSQL",
+    "Translation": "정보 - SQL 방식"
+  },
+  {
+    "Key": "JieShouCanShu",
+    "Translation": "매개변수 받기"
+  },
+  {
+    "Key": "HouDuanCanShuPanDuan",
+    "Translation": "백엔드 매개변수의 null 여부 확인"
+  },
+  {
+    "Key": "FuKongZhi",
+    "Translation": "null 값 할당"
+  },
+  {
+    "Key": "XiaoYan",
+    "Translation": "유효성 검사"
+  },
+  {
+    "Key": "HouDuanCanShuFuZhi",
+    "Translation": "백엔드 매개변수 할당"
+  },
+  {
+    "Key": "ZhuShi",
+    "Translation": "주석"
+  },
+  {
+    "Key": "ChaRuRiZhiYuJu",
+    "Translation": "로그 문 삽입"
+  },
+  {
+    "Key": "RiZhi",
+    "Translation": "로그"
+  },
+  {
+    "Key": "RiZhiRiQi",
+    "Translation": "로그 날짜"
+  },
+  {
+    "Key": "CaoZuoRen",
+    "Translation": "작업자"
+  },
+  {
+    "Key": "CaoZuoNeiRong",
+    "Translation": "작업 내용"
+  },
+  {
+    "Key": "FuZhi",
+    "Translation": "복사"
+  },
+  {
+    "Key": "BiaoFuZhiChengGong",
+    "Translation": "테이블 복사 성공"
+  },
+  {
+    "Key": "WeiZhaoDao",
+    "Translation": "찾을 수 없음"
+  },
+  {
+    "Key": "YuanBiaoWenJian",
+    "Translation": "원본 테이블 파일"
+  },
+  {
+    "Key": "BeiFenChengGong",
+    "Translation": "백업 성공"
+  },
+  {
+    "Key": "BeiFenGuoChengCuoWu",
+    "Translation": "백업 과정에서 오류 발생"
+  },
+  {
+    "Key": "WeiZhiDingYaoFuZhiBiaoID",
+    "Translation": "복사할 테이블 ID가 지정되지 않았습니다"
+  },
+  {
+    "Key": "LeiXingMingCheng",
+    "Translation": "유형 이름"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "데이터 유형"
+  },
+  {
+    "Key": "PaiXu",
+    "Translation": "정렬"
+  },
+  {
+    "Key": "QueRen",
+    "Translation": "확인"
+  },
+  {
+    "Key": "XiuGai",
+    "Translation": "수정"
+  },
+  {
+    "Key": "BeiZhu",
+    "Translation": "비고"
+  },
+  {
+    "Key": "MoRenZhi",
+    "Translation": "기본값"
+  },
+  {
+    "Key": "TuoDong",
+    "Translation": "드래그"
+  },
+  {
+    "Key": "ZiDuanMingCheng",
+    "Translation": "필드 이름"
+  },
+  {
+    "Key": "ZhuJian",
+    "Translation": "기본 키"
+  },
+  {
+    "Key": "QingSheZhiYiGeZhuJian",
+    "Translation": "기본 키를 설정하세요"
+  },
+  {
+    "Key": "FeiKong",
+    "Translation": "NOT NULL"
+  },
+  {
+    "Key": "ZiZeng",
+    "Translation": "자동 증가"
+  },
+  {
+    "Key": "CaoZuo",
+    "Translation": "작업"
+  },
+  {
+    "Key": "XinZengZiDuan",
+    "Translation": "필드 추가"
+  },
+  {
+    "Key": "BaoCunBiaoJieGou",
+    "Translation": "테이블 구조 저장"
+  },
+  {
+    "Key": "TiShiXinXi",
+    "Translation": "알림 메시지"
+  },
+  {
+    "Key": "CuoWu",
+    "Translation": "오류"
+  },
+  {
+    "Key": "QingXuanZheYiHang",
+    "Translation": "한 줄을 선택하세요"
+  },
+  {
+    "Key": "ZhiNengTongShiBianJiYiHang",
+    "Translation": "동시에 하나만 편집할 수 있습니다"
+  },
+  {
+    "Key": "QueDingShanChuMe",
+    "Translation": "삭제하시겠습니까?"
+  },
+  {
+    "Key": "JiaZaiChuXianYiChang",
+    "Translation": "로드 중 오류 발생"
+  },
+  {
+    "Key": "WuShuJu",
+    "Translation": "데이터 없음"
+  },
+  {
+    "Key": "BaoCun",
+    "Translation": "저장"
+  },
+  {
+    "Key": "BaoCunChengGong",
+    "Translation": "저장 성공"
+  },
+  {
+    "Key": "BaoCunShiBai",
+    "Translation": "저장 성공"
+  },
+  {
+    "Key": "ShengChengShiBai",
+    "Translation": "생성 실패"
+  },
+  {
+    "Key": "YuanXiangMu",
+    "Translation": "소스 프로젝트"
+  },
+  {
+    "Key": "QingXuanZhe",
+    "Translation": "선택하세요"
+  },
+  {
+    "Key": "MuBiaoXiangMu",
+    "Translation": "대상 프로젝트"
+  },
+  {
+    "Key": "FuZhiBiao",
+    "Translation": "테이블 복사"
+  },
+  {
+    "Key": "CongQiTaXiangMu",
+    "Translation": "다른 프로젝트에서"
+  },
+  {
+    "Key": "BeiFenXiangMu",
+    "Translation": "백업 프로젝트"
+  },
+  {
+    "Key": "YaoFuZhiDeBiao",
+    "Translation": "복사할 테이블"
+  },
+  {
+    "Key": "ZhuRuYiLaiIP",
+    "Translation": "의존성 주입을 통해 IHttpContextAccessor를 받아 실제 IP 주소를 가져오기"
+  },
+  {
+    "Key": "POSTTianJiaZhuShi",
+    "Translation": "POST 요청으로 새로운 데이터를 추가하고, 파라미터는 int형으로 받되, 없으면 기본값은 0"
+  },
+  {
+    "Key": "JianChaCanShuWeiKong",
+    "Translation": "파라미터가 비어있는지 확인"
+  },
+  {
+    "Key": "ChuanRuCanShuCuoWu",
+    "Translation": "전달된 매개변수 오류"
+  },
+  {
+    "Key": "HouDuanCanshuWeiKong",
+    "Translation": "백엔드에서 매개변수가 비어있는지 확인"
+  },
+  {
+    "Key": "PanDuanDengluZhuangTai",
+    "Translation": "로그인 상태 확인"
+  },
+  {
+    "Key": "PanDuanShiFouYouQuanXian",
+    "Translation": "권한 여부 확인"
+  },
+  {
+    "Key": "FanHuiXinShuJuID",
+    "Translation": "새로 추가된 데이터의 ID 반환"
+  },
+  {
+    "Key": "WuQuanXian",
+    "Translation": "권한 없음"
+  },
+  {
+    "Key": "ShuJuMoXingFuZhi",
+    "Translation": "데이터 모델 할당"
+  },
+  {
+    "Key": "ShiLiHuaDuiXiang",
+    "Translation": "데이터베이스 접근을 담당하는 데이터 액세스 계층 객체 인스턴스화"
+  },
+  {
+    "Key": "TianJiaChengGong",
+    "Translation": "추가 성공"
+  },
+  {
+    "Key": "TianJiaShiBai",
+    "Translation": "추가 실패"
+  },
+  {
+    "Key": "POSTXiuGaiZhuShi",
+    "Translation": "POST 요청을 통해 데이터를 수정하며, int형 파라미터를 받고 해당 파라미터가 없으면 기본값은 0"
+  },
+  {
+    "Key": "GengXingChengGong",
+    "Translation": "업데이트 성공"
+  },
+  {
+    "Key": "GengXingShiBai",
+    "Translation": "업데이트 실패"
+  },
+  {
+    "Key": "POSTShanChuZhuShi",
+    "Translation": "POST 요청을 통해 ID 기준으로 삭제하고, 삭제된 레코드 수를 반환"
+  },
+  {
+    "Key": "DouHaoZhiFuZhuanLieBiao",
+    "Translation": "쉼표로 구분된 문자열을 정수 리스트로 변환"
+  },
+  {
+    "Key": "ChuShiHuaBianLiang",
+    "Translation": "삭제할 ID를 저장할 변수를 초기화"
+  },
+  {
+    "Key": "BianLiBingShanChu",
+    "Translation": " 각 ID를 순회하며 해당 항목을 찾아서 삭제"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "삭제 성공"
+  },
+  {
+    "Key": "ShanChuShiBai",
+    "Translation": "삭제 실패"
+  },
+  {
+    "Key": "GetHuoQuFenYeShuJu",
+    "Translation": "GET 요청으로 페이징 데이터를 가져오며, Title, Page, PageSize 파라미터로 페이징을 제어"
+  },
+  {
+    "Key": "RuGuoWeiKongFuZhiKong",
+    "Translation": "Title이 null 또는 비어있다면 \"\"로 설정하여 필터링을 하지 않음을 의미"
+  },
+  {
+    "Key": "BuChuanDiBuSaiXuan",
+    "Translation": "파라미터를 전달하지 않거나 빈 문자열을 전달하는 경우, 조회 시 필터링을 적용하지 않습니다."
+  },
+  {
+    "Key": "FenYeCanShuShiFouYouXiao",
+    "Translation": "페이징 파라미터가 유효한지 확인합니다."
+  },
+  {
+    "Key": "JiSuanKaiShiTiaoShu",
+    "Translation": "시작 레코드 계산: 페이지에서 첫 번째 데이터의 인덱스를 계산합니다. Page는 현재 페이지 번호이며, PageSize는 페이지당 표시할 데이터 수입니다."
+  },
+  {
+    "Key": "JiSuanMeiYeTiaoShu",
+    "Translation": "페이지당 표시할 데이터 수를 계산합니다."
+  },
+  {
+    "Key": "GetFangFa",
+    "Translation": "Get 메서드를 호출하여 데이터베이스에서 데이터를 가져오며, 페이징 파라미터(Title, 시작 레코드, 페이지당 수)를 전달합니다."
+  },
+  {
+    "Key": "DataTableToListZhuanHuan",
+    "Translation": "DataTableToList 메서드를 사용해 DataTable을 List<T>로 변환하며, 여기서 T는 AdminModel 클래스의 인스턴스입니다."
+  },
+  {
+    "Key": "FanHuiFenYeShuJu",
+    "Translation": "페이징된 데이터를 상태 코드, 메시지, 총 개수, 데이터 컬렉션을 포함한 통합 API 응답 형식으로 반환합니다."
+  },
+  {
+    "Key": "ShengChengApi",
+    "Translation": "API"
+  },
+  {
+    "Key": "ShengQiTa",
+    "Translation": "기타"
+  },
+  {
+    "Key": "ShengChengDalSql",
+    "Translation": "Dal(SQL)"
+  },
+  {
+    "Key": "ShengChengDal",
+    "Translation": "Dal"
+  },
+  {
+    "Key": "ShengChengModel",
+    "Translation": "Model"
+  },
+  {
+    "Key": "ShengChengCunChu",
+    "Translation": "Pro"
+  },
+  {
+    "Key": "RiZhiBiaoJieGou",
+    "Translation": "Table log"
+  },
+  {
+    "Key": "ShengChengBiaoJieGou",
+    "Translation": "Table"
+  },
+  {
+    "Key": "ChaKan",
+    "Translation": "보기"
+  },
+  {
+    "Key": "GuanliBiao",
+    "Translation": "관리 테이블"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1,
+    "Title": "\u6574\u6570",
+    "DataType": "int",
+    "Sorts": 0
+  },
+  {
+    "ID": 2,
+    "Title": "\u5B57\u7B26\u4E32-50",
+    "DataType": "nvarchar(50)",
+    "Sorts": 0
+  },
+  {
+    "ID": 3,
+    "Title": "\u65E5\u671F",
+    "DataType": "datetime",
+    "Sorts": 0
+  },
+  {
+    "ID": 4,
+    "Title": "\u5B57\u7B26\u4E32-200",
+    "DataType": "nvarchar(200)",
+    "Sorts": 0
+  },
+  {
+    "ID": 5,
+    "Title": "\u5B57\u7B26\u4E32500",
+    "DataType": "nvarchar(500)",
+    "Sorts": 0
+  },
+  {
+    "ID": 6,
+    "Title": "\u5B57\u7B26\u4E322000",
+    "DataType": "nvarchar(2000)",
+    "Sorts": 0
+  },
+  {
+    "ID": 7,
+    "Title": "\u6D6E\u70B9",
+    "DataType": "float",
+    "Sorts": 0
+  },
+  {
+    "ID": 8,
+    "Title": "\u91D1\u989D",
+    "DataType": "decimal(18, 2)",
+    "Sorts": 0
+  },
+  {
+    "ID": 9,
+    "Title": "\u6587\u672C",
+    "DataType": "ntext",
+    "Sorts": 0
+  },
+  {
+    "ID": 10,
+    "Title": "\u5927\u6587\u672C",
+    "DataType": "nvarchar(max)",
+    "Sorts": 0
+  }
+]

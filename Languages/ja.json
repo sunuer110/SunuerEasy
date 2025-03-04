@@ -1,0 +1,634 @@
+[
+  {
+    "Key": "CanShuCuoWu",
+    "Translation": "渡されたパラメータが間違っています"
+  },
+  {
+    "Key": "SheZhiChengGong",
+    "Translation": "設定に成功しました"
+  },
+  {
+    "Key": "CeBianShenSuo",
+    "Translation": "サイドの伸縮"
+  },
+  {
+    "Key": "GuanWang",
+    "Translation": "公式サイト"
+  },
+  {
+    "Key": "YuYanSheZhi",
+    "Translation": "言語設定"
+  },
+  {
+    "Key": "Shuaxin",
+    "Translation": "更新"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "データ型"
+  },
+  {
+    "Key": "MoRenCanShu",
+    "Translation": "デフォルトパラメータ"
+  },
+  {
+    "Key": "QuanBuXiangMu",
+    "Translation": "すべてのプロジェクト"
+  },
+  {
+    "Key": "GuanBiDangQianBiaoQian",
+    "Translation": "現在のタブを閉じる"
+  },
+  {
+    "Key": "GuanBiQiTaBiaoQian",
+    "Translation": "他のタブを閉じる"
+  },
+  {
+    "Key": "GuanBiQuanBuBiaoQian",
+    "Translation": "すべてのタブを閉じる"
+  },
+  {
+    "Key": "KuaiJieFangShi",
+    "Translation": "ショートカット"
+  },
+  {
+    "Key": "XiangMuGuanLi",
+    "Translation": "プロジェクト管理"
+  },
+  {
+    "Key": "MianZeShengMing",
+    "Translation": "免責事項"
+  },
+  {
+    "Key": "ShiYongQianYueDu",
+    "Translation": "使用前にお読みください"
+  },
+  {
+    "Key": "BanBenXinXi",
+    "Translation": "バージョン情報"
+  },
+  {
+    "Key": "GongJuMingCheng",
+    "Translation": "ツール名"
+  },
+  {
+    "Key": "DangQianBangBen",
+    "Translation": "現在のバージョン"
+  },
+  {
+    "Key": "GengXinRiZhi",
+    "Translation": "更新履歴"
+  },
+  {
+    "Key": "JiYuKuangJia",
+    "Translation": "フレームワークに基づく"
+  },
+  {
+    "Key": "QianDuanKuangJia",
+    "Translation": "フロントエンドフレームワーク"
+  },
+  {
+    "Key": "ZhuYaoTeSe",
+    "Translation": "主な特徴"
+  },
+  {
+    "Key": "ZhuYaoTeSes",
+    "Translation": "高速なコード生成、既存プロジェクトとの互換性、コーディング効率の向上。"
+  },
+  {
+    "Key": "HuoQuQuDao",
+    "Translation": "取得方法"
+  },
+  {
+    "Key": "ChanPinDongTai",
+    "Translation": "製品動向"
+  },
+  {
+    "Key": "HuoDe",
+    "Translation": "取得"
+  },
+  {
+    "Key": "ZuoZheXinYu",
+    "Translation": "作者の思い"
+  },
+  {
+    "Key": "YaozhichiO",
+    "Translation": "ぜひサポートをお願いします！"
+  },
+  {
+    "Key": "ZuoZheXinYu1",
+    "Translation": "長年の開発経験の中で、多くの開発作業が繰り返しの作業であることに気付きました。例えば、基本的なコードの生成、データベースフィールドの管理、保存されたデータファイルの検索などです。これらの作業は一見単純ですが、大量の時間と労力を消費し、開発効率やプロジェクト進行に大きな影響を及ぼします。"
+  },
+  {
+    "Key": "ZuoZheXinYu2",
+    "Translation": "そこで、私は Sunuer Easy というスマートなコード生成ツールを開発することにしました。このツールは、これらの煩雑な作業を簡素化することを目的としています。自動化を通じて、開発者がコードを迅速に生成し、データベースフィールドを管理し、データファイルを整理するのを支援し、時間を節約してビジネスロジックや革新に集中できるようにします。"
+  },
+  {
+    "Key": "ZuoZheXinYu3",
+    "Translation": "Sunuer Easy の目標は、開発効率を向上させ、反復作業を削減し、急速に変化する技術環境の中で開発者がより効率的に働き、より多くの創造性を解放することです。"
+  },
+  {
+    "Key": "ChengGong",
+    "Translation": "成功"
+  },
+  {
+    "Key": "ShuJuWenJianBuCunZai",
+    "Translation": "データファイルが存在しません"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingXiangMu",
+    "Translation": "指定されたプロジェクトが見つかりませんでした"
+  },
+  {
+    "Key": "XiuGaiChengGong",
+    "Translation": "変更に成功しました"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "削除に成功しました"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingBiao",
+    "Translation": "指定されたテーブルが見つかりませんでした"
+  },
+  {
+    "Key": "XiangMuWenJianWeiZhaoDao",
+    "Translation": "プロジェクトファイルが見つかりません"
+  },
+  {
+    "Key": "MoXing",
+    "Translation": "モデル"
+  },
+  {
+    "Key": "ShuoMing",
+    "Translation": "説明"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "追加"
+  },
+  {
+    "Key": "GengXing",
+    "Translation": "更新"
+  },
+  {
+    "Key": "ZhuJianZiDuanWeiDingYi",
+    "Translation": "主キー項目が定義されていません"
+  },
+  {
+    "Key": "ShanChu",
+    "Translation": "削除"
+  },
+  {
+    "Key": "BianJi",
+    "Translation": "編集"
+  },
+  {
+    "Key": "ShanChuYiTiaoJiLu",
+    "Translation": "1つのレコードを削除"
+  },
+  {
+    "Key": "XiangMuMingCheng",
+    "Translation": "プロジェクト名"
+  },
+  {
+    "Key": "XiangMuMingChengCn",
+    "Translation": "プロジェクト別名"
+  },
+  {
+    "Key": "GengXinRen",
+    "Translation": "更新者"
+  },
+  {
+    "Key": "YingXiangHangShu",
+    "Translation": "影響を受けた行数"
+  },
+  {
+    "Key": "HuoQu",
+    "Translation": "取得"
+  },
+  {
+    "Key": "YiTiaoJiLu",
+    "Translation": "1件の記録"
+  },
+  {
+    "Key": "BiaoMingCheng",
+    "Translation": "テーブル名"
+  },
+  {
+    "Key": "DuQuJiLuLieBiao",
+    "Translation": "記録リストを読み込む"
+  },
+  {
+    "Key": "DanTiaoShuJu",
+    "Translation": "単一データ"
+  },
+  {
+    "Key": "ZhuJianZhi",
+    "Translation": "主キー値"
+  },
+  {
+    "Key": "ZhunBeiCanShu",
+    "Translation": "パラメータを準備"
+  },
+  {
+    "Key": "YeMa",
+    "Translation": "ページ番号"
+  },
+  {
+    "Key": "MeiYeShuLiang",
+    "Translation": "1ページあたりの件数"
+  },
+  {
+    "Key": "LieBiao",
+    "Translation": "リスト"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "数量"
+  },
+  {
+    "Key": "FanHui",
+    "Translation": "戻る"
+  },
+  {
+    "Key": "DanTiao",
+    "Translation": "単一"
+  },
+  {
+    "Key": "XinXiSQL",
+    "Translation": "情報 - SQL方式"
+  },
+  {
+    "Key": "JieShouCanShu",
+    "Translation": "パラメータを受け取る"
+  },
+  {
+    "Key": "HouDuanCanShuPanDuan",
+    "Translation": "バックエンドでパラメータが空であるかを判断"
+  },
+  {
+    "Key": "FuKongZhi",
+    "Translation": "空値を割り当て"
+  },
+  {
+    "Key": "XiaoYan",
+    "Translation": "検証"
+  },
+  {
+    "Key": "HouDuanCanShuFuZhi",
+    "Translation": "バックエンドのパラメータ割り当て"
+  },
+  {
+    "Key": "ZhuShi",
+    "Translation": "コメント"
+  },
+  {
+    "Key": "ChaRuRiZhiYuJu",
+    "Translation": "ログ文の挿入"
+  },
+  {
+    "Key": "RiZhi",
+    "Translation": "ログ"
+  },
+  {
+    "Key": "RiZhiRiQi",
+    "Translation": "ログ日付"
+  },
+  {
+    "Key": "CaoZuoRen",
+    "Translation": "操作担当者"
+  },
+  {
+    "Key": "CaoZuoNeiRong",
+    "Translation": "操作内容"
+  },
+  {
+    "Key": "FuZhi",
+    "Translation": "コピー"
+  },
+  {
+    "Key": "BiaoFuZhiChengGong",
+    "Translation": "テーブルコピー成功"
+  },
+  {
+    "Key": "WeiZhaoDao",
+    "Translation": "見つかりません"
+  },
+  {
+    "Key": "YuanBiaoWenJian",
+    "Translation": "元のテーブルファイル"
+  },
+  {
+    "Key": "BeiFenChengGong",
+    "Translation": "バックアップ成功"
+  },
+  {
+    "Key": "BeiFenGuoChengCuoWu",
+    "Translation": "バックアップ中にエラーが発生しました"
+  },
+  {
+    "Key": "WeiZhiDingYaoFuZhiBiaoID",
+    "Translation": "コピーするテーブルIDが指定されていません"
+  },
+  {
+    "Key": "LeiXingMingCheng",
+    "Translation": "タイプ名"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "データ型"
+  },
+  {
+    "Key": "PaiXu",
+    "Translation": "ソート"
+  },
+  {
+    "Key": "QueRen",
+    "Translation": "確認"
+  },
+  {
+    "Key": "XiuGai",
+    "Translation": "修正"
+  },
+  {
+    "Key": "BeiZhu",
+    "Translation": "備考"
+  },
+  {
+    "Key": "MoRenZhi",
+    "Translation": "デフォルト値"
+  },
+  {
+    "Key": "TuoDong",
+    "Translation": "ドラッグ"
+  },
+  {
+    "Key": "ZiDuanMingCheng",
+    "Translation": "フィールド名"
+  },
+  {
+    "Key": "ZhuJian",
+    "Translation": "主キー"
+  },
+  {
+    "Key": "QingSheZhiYiGeZhuJian",
+    "Translation": "主キーを設定してください"
+  },
+  {
+    "Key": "FeiKong",
+    "Translation": "非NULL"
+  },
+  {
+    "Key": "ZiZeng",
+    "Translation": "自動増加"
+  },
+  {
+    "Key": "CaoZuo",
+    "Translation": "操作"
+  },
+  {
+    "Key": "XinZengZiDuan",
+    "Translation": "フィールドを追加"
+  },
+  {
+    "Key": "BaoCunBiaoJieGou",
+    "Translation": "テーブル構造を保存"
+  },
+  {
+    "Key": "TiShiXinXi",
+    "Translation": "ヒントメッセージ"
+  },
+  {
+    "Key": "CuoWu",
+    "Translation": "エラー"
+  },
+  {
+    "Key": "QingXuanZheYiHang",
+    "Translation": "1行を選択してください"
+  },
+  {
+    "Key": "ZhiNengTongShiBianJiYiHang",
+    "Translation": "同時に1つだけ編集可能です"
+  },
+  {
+    "Key": "QueDingShanChuMe",
+    "Translation": "削除してもよろしいですか？"
+  },
+  {
+    "Key": "JiaZaiChuXianYiChang",
+    "Translation": "読み込み時にエラーが発生しました"
+  },
+  {
+    "Key": "WuShuJu",
+    "Translation": "データなし"
+  },
+  {
+    "Key": "BaoCun",
+    "Translation": "保存"
+  },
+  {
+    "Key": "BaoCunChengGong",
+    "Translation": "保存成功"
+  },
+  {
+    "Key": "BaoCunShiBai",
+    "Translation": "保存失败"
+  },
+  {
+    "Key": "ShengChengShiBai",
+    "Translation": "生成失敗"
+  },
+  {
+    "Key": "YuanXiangMu",
+    "Translation": "元プロジェクト"
+  },
+  {
+    "Key": "QingXuanZhe",
+    "Translation": "選択してください"
+  },
+  {
+    "Key": "MuBiaoXiangMu",
+    "Translation": "対象プロジェクト"
+  },
+  {
+    "Key": "FuZhiBiao",
+    "Translation": "テーブルをコピー"
+  },
+  {
+    "Key": "CongQiTaXiangMu",
+    "Translation": "他のプロジェクトから"
+  },
+  {
+    "Key": "BeiFenXiangMu",
+    "Translation": "バックアッププロジェクト"
+  },
+  {
+    "Key": "YaoFuZhiDeBiao",
+    "Translation": "コピーするテーブル"
+  },
+  {
+    "Key": "ZhuRuYiLaiIP",
+    "Translation": "依存性注入を通じて IHttpContextAccessor を取得し、実際の IP アドレスを取得"
+  },
+  {
+    "Key": "POSTTianJiaZhuShi",
+    "Translation": "POST リクエストで新規データを追加。int 型パラメータを受け取り、パラメータがなければデフォルト値は 0"
+  },
+  {
+    "Key": "JianChaCanShuWeiKong",
+    "Translation": "パラメータが空かどうかをチェック"
+  },
+  {
+    "Key": "ChuanRuCanShuCuoWu",
+    "Translation": "渡されたパラメータが不正"
+  },
+  {
+    "Key": "HouDuanCanshuWeiKong",
+    "Translation": "バックエンド側でパラメータが空かどうか判定"
+  },
+  {
+    "Key": "PanDuanDengluZhuangTai",
+    "Translation": "ログイン状態を判定"
+  },
+  {
+    "Key": "PanDuanShiFouYouQuanXian",
+    "Translation": "権限を判定"
+  },
+  {
+    "Key": "FanHuiXinShuJuID",
+    "Translation": "新しいデータの ID を返す"
+  },
+  {
+    "Key": "WuQuanXian",
+    "Translation": "権限がありません"
+  },
+  {
+    "Key": "ShuJuMoXingFuZhi",
+    "Translation": "データモデルの割り当て"
+  },
+  {
+    "Key": "ShiLiHuaDuiXiang",
+    "Translation": "データアクセス層（DAL）のオブジェクトをインスタンス化し、データベースへのアクセスを担当"
+  },
+  {
+    "Key": "TianJiaChengGong",
+    "Translation": "追加成功"
+  },
+  {
+    "Key": "TianJiaShiBai",
+    "Translation": "追加失敗"
+  },
+  {
+    "Key": "POSTXiuGaiZhuShi",
+    "Translation": "POST リクエストでデータを変更し、パラメータは int 型を受け取り、パラメータがない場合は 0 をデフォルト値とする"
+  },
+  {
+    "Key": "GengXingChengGong",
+    "Translation": "更新成功"
+  },
+  {
+    "Key": "GengXingShiBai",
+    "Translation": "更新失敗"
+  },
+  {
+    "Key": "POSTShanChuZhuShi",
+    "Translation": "POST リクエストで ID に基づいて削除し、削除したレコード数を返す。"
+  },
+  {
+    "Key": "DouHaoZhiFuZhuanLieBiao",
+    "Translation": "カンマ区切りの文字列を整数リストに変換"
+  },
+  {
+    "Key": "ChuShiHuaBianLiang",
+    "Translation": "削除対象の ID を保存するための変数を初期化"
+  },
+  {
+    "Key": "BianLiBingShanChu",
+    "Translation": " 各 ID をループして、該当する項目を検索し削除"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "削除成功"
+  },
+  {
+    "Key": "ShanChuShiBai",
+    "Translation": "削除失敗"
+  },
+  {
+    "Key": "GetHuoQuFenYeShuJu",
+    "Translation": "GET リクエストでページングされたデータを取得し、Title、Page、PageSize パラメータでページングを制御。"
+  },
+  {
+    "Key": "RuGuoWeiKongFuZhiKong",
+    "Translation": "Title が null または空文字の場合、\"\" に設定し、フィルタリングを行わないことを示す"
+  },
+  {
+    "Key": "BuChuanDiBuSaiXuan",
+    "Translation": "パラメータが渡されない、または空文字の場合、クエリ時にフィルタは適用されません。"
+  },
+  {
+    "Key": "FenYeCanShuShiFouYouXiao",
+    "Translation": "ページング用のパラメータが有効かどうかを確認。"
+  },
+  {
+    "Key": "JiSuanKaiShiTiaoShu",
+    "Translation": "開始レコードの計算：ページ内の最初のレコードのインデックスを求める。Page は現在のページ番号、PageSize は 1 ページあたりに表示するデータ数。"
+  },
+  {
+    "Key": "JiSuanMeiYeTiaoShu",
+    "Translation": "1 ページあたりに表示するデータ数を計算。"
+  },
+  {
+    "Key": "GetFangFa",
+    "Translation": "Get メソッドを呼び出してデータベースからデータを取得し、Title、開始レコード、ページサイズなどのページングパラメータを渡す。"
+  },
+  {
+    "Key": "DataTableToListZhuanHuan",
+    "Translation": "DataTableToList メソッドを使用して DataTable を List<T> に変換し、ここで T は AdminModel クラスのインスタンス。"
+  },
+  {
+    "Key": "FanHuiFenYeShuJu",
+    "Translation": "ページングされたデータを、ステータスコード、メッセージ、合計件数、データコレクションを含む統一 API レスポンス形式で返す。"
+  },
+  {
+    "Key": "ShengChengApi",
+    "Translation": "API"
+  },
+  {
+    "Key": "ShengQiTa",
+    "Translation": "その他"
+  },
+  {
+    "Key": "ShengChengDalSql",
+    "Translation": "Dal(SQL)"
+  },
+  {
+    "Key": "ShengChengDal",
+    "Translation": "Dal"
+  },
+  {
+    "Key": "ShengChengModel",
+    "Translation": "Model"
+  },
+  {
+    "Key": "ShengChengCunChu",
+    "Translation": "Pro"
+  },
+  {
+    "Key": "RiZhiBiaoJieGou",
+    "Translation": "Table Log"
+  },
+  {
+    "Key": "ShengChengBiaoJieGou",
+    "Translation": "Table"
+  },
+  {
+    "Key": "ChaKan",
+    "Translation": "表示"
+  },
+  {
+    "Key": "GuanliBiao",
+    "Translation": "管理テーブル"
+  }
+]

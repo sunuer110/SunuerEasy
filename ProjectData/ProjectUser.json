@@ -1,0 +1,537 @@
+[
+  {
+    "TableID": 1,
+    "TableName": "Users",
+    "Remarks": "\u4E13\u5BB6\u8868",
+    "About": "",
+    "SortOrder": 0,
+    "Fields": [
+      {
+        "FieldName": "UserID",
+        "DataType": "int",
+        "IsPrimaryKey": true,
+        "IsNotNull": true,
+        "IsAutoIncrement": true,
+        "Description": "\u4E13\u5BB6\u8868",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u65F6\u95F4",
+        "DefaultValue": "getdate()",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Del",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5220\u96640\u54261\u662F",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UserName",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u7528\u6237\u540D",
+        "DefaultValue": "",
+        "Remarks": ""
+      }
+    ]
+  },
+  {
+    "TableID": 2,
+    "TableName": "Admin_\u590D\u5236",
+    "Remarks": "\u7BA1\u7406\u5458",
+    "About": "",
+    "SortOrder": 2,
+    "Fields": [
+      {
+        "FieldName": "AdminID",
+        "DataType": "int",
+        "IsPrimaryKey": true,
+        "IsNotNull": true,
+        "IsAutoIncrement": true,
+        "Description": "",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u65F6\u95F4",
+        "DefaultValue": "getdate()",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Del",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5220\u96640\u54261\u662F",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "AdminName",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u7528\u6237\u540D",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "AdminNick",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6635\u79F0",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "PassWord",
+        "DataType": "nvarchar(200)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5BC6\u7801",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "RolesID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u89D2\u8272ID",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Statues",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u72B6\u60010\u6B63\u5E381\u51BB\u7ED3",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "LoginAttempts",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u767B\u9646\u5C1D\u8BD5\u6B21\u6570",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "LoginAttemptsLast",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u767B\u9646\u5C1D\u8BD5\u6700\u540E\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      }
+    ]
+  },
+  {
+    "TableID": 3,
+    "TableName": "AdminRoles",
+    "Remarks": "\u89D2\u8272",
+    "About": "",
+    "SortOrder": 3,
+    "Fields": [
+      {
+        "FieldName": "RoleID",
+        "DataType": "int",
+        "IsPrimaryKey": true,
+        "IsNotNull": true,
+        "IsAutoIncrement": true,
+        "Description": "",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u65F6\u95F4",
+        "DefaultValue": "getdate()",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Del",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5220\u96640\u54261\u662F",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "RolesTitle",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u89D2\u8272\u540D\u79F0",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Powers",
+        "DataType": "nvarchar(2000)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6743\u9650\u96C6\u5408",
+        "DefaultValue": "",
+        "Remarks": ""
+      }
+    ]
+  },
+  {
+    "TableID": 4,
+    "TableName": "Admin_\u590D\u5236",
+    "Remarks": "\u7BA1\u7406\u5458",
+    "About": "",
+    "SortOrder": 4,
+    "Fields": [
+      {
+        "FieldName": "AdminID",
+        "DataType": "int",
+        "IsPrimaryKey": true,
+        "IsNotNull": true,
+        "IsAutoIncrement": true,
+        "Description": "",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u65F6\u95F4",
+        "DefaultValue": "getdate()",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Del",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5220\u96640\u54261\u662F",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "AdminName",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u7528\u6237\u540D",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "AdminNick",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6635\u79F0",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "PassWord",
+        "DataType": "nvarchar(200)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5BC6\u7801",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "RolesID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u89D2\u8272ID",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Statues",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u72B6\u60010\u6B63\u5E381\u51BB\u7ED3",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "LoginAttempts",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u767B\u9646\u5C1D\u8BD5\u6B21\u6570",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "LoginAttemptsLast",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u767B\u9646\u5C1D\u8BD5\u6700\u540E\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      }
+    ]
+  },
+  {
+    "TableID": 5,
+    "TableName": "AdminPower_\u590D\u5236",
+    "Remarks": "\u6743\u9650",
+    "About": "",
+    "SortOrder": 5,
+    "Fields": [
+      {
+        "FieldName": "PowerID",
+        "DataType": "int",
+        "IsPrimaryKey": true,
+        "IsNotNull": true,
+        "IsAutoIncrement": true,
+        "Description": "",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u65F6\u95F4",
+        "DefaultValue": "getdate()",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Del",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5220\u96640\u54261\u662F",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "ParentID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u7236\u7EA7ID",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "PowerTitle",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6743\u9650\u540D\u79F0",
+        "DefaultValue": "",
+        "Remarks": ""
+      }
+    ]
+  }
+]

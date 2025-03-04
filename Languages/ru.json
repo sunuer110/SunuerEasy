@@ -1,0 +1,634 @@
+[
+  {
+    "Key": "CanShuCuoWu",
+    "Translation": "Ошибка переданных параметров"
+  },
+  {
+    "Key": "SheZhiChengGong",
+    "Translation": "Настройка успешно выполнена"
+  },
+  {
+    "Key": "CeBianShenSuo",
+    "Translation": "Боковое разворачивание/сворачивание"
+  },
+  {
+    "Key": "GuanWang",
+    "Translation": "Официальный сайт"
+  },
+  {
+    "Key": "YuYanSheZhi",
+    "Translation": "Настройки языка"
+  },
+  {
+    "Key": "Shuaxin",
+    "Translation": "Обновить"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "Тип данных"
+  },
+  {
+    "Key": "MoRenCanShu",
+    "Translation": "Параметры по умолчанию"
+  },
+  {
+    "Key": "QuanBuXiangMu",
+    "Translation": "Все проекты"
+  },
+  {
+    "Key": "GuanBiDangQianBiaoQian",
+    "Translation": "Закрыть текущую вкладку"
+  },
+  {
+    "Key": "GuanBiQiTaBiaoQian",
+    "Translation": "Закрыть другие вкладки"
+  },
+  {
+    "Key": "GuanBiQuanBuBiaoQian",
+    "Translation": "Закрыть все вкладки"
+  },
+  {
+    "Key": "KuaiJieFangShi",
+    "Translation": "Ярлык"
+  },
+  {
+    "Key": "XiangMuGuanLi",
+    "Translation": "Управление проектами"
+  },
+  {
+    "Key": "MianZeShengMing",
+    "Translation": "Отказ от ответственности"
+  },
+  {
+    "Key": "ShiYongQianYueDu",
+    "Translation": "Пожалуйста, прочтите перед использованием"
+  },
+  {
+    "Key": "BanBenXinXi",
+    "Translation": "Информация о версии"
+  },
+  {
+    "Key": "GongJuMingCheng",
+    "Translation": "Название инструмента"
+  },
+  {
+    "Key": "DangQianBangBen",
+    "Translation": "Текущая версия"
+  },
+  {
+    "Key": "GengXinRiZhi",
+    "Translation": "Журнал изменений"
+  },
+  {
+    "Key": "JiYuKuangJia",
+    "Translation": "На основе фреймворка"
+  },
+  {
+    "Key": "QianDuanKuangJia",
+    "Translation": "Фронтенд-фреймворк"
+  },
+  {
+    "Key": "ZhuYaoTeSe",
+    "Translation": "Основные особенности"
+  },
+  {
+    "Key": "ZhuYaoTeSes",
+    "Translation": "Быстрая генерация кода, совместимость с существующими проектами, повышение эффективности кодирования."
+  },
+  {
+    "Key": "HuoQuQuDao",
+    "Translation": "Каналы получения"
+  },
+  {
+    "Key": "ChanPinDongTai",
+    "Translation": "Динамика продукта"
+  },
+  {
+    "Key": "HuoDe",
+    "Translation": "Получить"
+  },
+  {
+    "Key": "ZuoZheXinYu",
+    "Translation": "Мысли автора"
+  },
+  {
+    "Key": "YaozhichiO",
+    "Translation": "Пожалуйста, поддержите!"
+  },
+  {
+    "Key": "ZuoZheXinYu1",
+    "Translation": "За годы моего опыта в разработке я обнаружил, что многие задачи разработки являются повторяющимися, например, создание базового кода, управление полями базы данных или поиск сохраненных файлов данных. Хотя эти задачи кажутся простыми, они отнимают много времени и энергии, серьезно влияя на эффективность разработки и прогресс проекта."
+  },
+  {
+    "Key": "ZuoZheXinYu2",
+    "Translation": "Именно поэтому я решил разработать Sunuer Easy — интеллектуальный инструмент генерации кода, созданный для упрощения этих утомительных задач. С помощью автоматизации он помогает разработчикам быстро генерировать код, управлять полями базы данных, организовывать файлы данных, экономить время и сосредотачиваться на бизнес-логике и инновациях."
+  },
+  {
+    "Key": "ZuoZheXinYu3",
+    "Translation": "Цель Sunuer Easy — повысить эффективность разработки, сократить повторяющиеся задачи и помочь разработчикам работать более продуктивно в условиях быстро меняющейся технологической среды, раскрывая больше творчества."
+  },
+  {
+    "Key": "ChengGong",
+    "Translation": "Успех"
+  },
+  {
+    "Key": "ShuJuWenJianBuCunZai",
+    "Translation": "Файл данных не существует"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingXiangMu",
+    "Translation": "Указанный проект не найден"
+  },
+  {
+    "Key": "XiuGaiChengGong",
+    "Translation": "Изменение успешно"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "Удаление успешно"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingBiao",
+    "Translation": "Указанная таблица не найдена"
+  },
+  {
+    "Key": "XiangMuWenJianWeiZhaoDao",
+    "Translation": "Файл проекта не найден"
+  },
+  {
+    "Key": "MoXing",
+    "Translation": "Модель"
+  },
+  {
+    "Key": "ShuoMing",
+    "Translation": "Описание"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "Добавить"
+  },
+  {
+    "Key": "GengXing",
+    "Translation": "Обновить"
+  },
+  {
+    "Key": "ZhuJianZiDuanWeiDingYi",
+    "Translation": "Поле первичного ключа не определено"
+  },
+  {
+    "Key": "ShanChu",
+    "Translation": "Удалить"
+  },
+  {
+    "Key": "BianJi",
+    "Translation": "Редактировать"
+  },
+  {
+    "Key": "ShanChuYiTiaoJiLu",
+    "Translation": "Удалить запись"
+  },
+  {
+    "Key": "XiangMuMingCheng",
+    "Translation": "Название проекта"
+  },
+  {
+    "Key": "XiangMuMingChengCn",
+    "Translation": "Псевдоним проекта"
+  },
+  {
+    "Key": "GengXinRen",
+    "Translation": "Обновлено"
+  },
+  {
+    "Key": "YingXiangHangShu",
+    "Translation": "Количество затронутых строк"
+  },
+  {
+    "Key": "HuoQu",
+    "Translation": "Получить"
+  },
+  {
+    "Key": "YiTiaoJiLu",
+    "Translation": "Одна запись"
+  },
+  {
+    "Key": "BiaoMingCheng",
+    "Translation": "Имя таблицы"
+  },
+  {
+    "Key": "DuQuJiLuLieBiao",
+    "Translation": "Список записей для чтения"
+  },
+  {
+    "Key": "DanTiaoShuJu",
+    "Translation": "Одна запись"
+  },
+  {
+    "Key": "ZhuJianZhi",
+    "Translation": "Значение первичного ключа"
+  },
+  {
+    "Key": "ZhunBeiCanShu",
+    "Translation": "Подготовка параметров"
+  },
+  {
+    "Key": "YeMa",
+    "Translation": "Номер страницы"
+  },
+  {
+    "Key": "MeiYeShuLiang",
+    "Translation": "Количество на странице"
+  },
+  {
+    "Key": "LieBiao",
+    "Translation": "Список"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "Количество"
+  },
+  {
+    "Key": "FanHui",
+    "Translation": "Вернуть"
+  },
+  {
+    "Key": "DanTiao",
+    "Translation": "Одна запись"
+  },
+  {
+    "Key": "XinXiSQL",
+    "Translation": "Информация - SQL-режим"
+  },
+  {
+    "Key": "JieShouCanShu",
+    "Translation": "Получение параметров"
+  },
+  {
+    "Key": "HouDuanCanShuPanDuan",
+    "Translation": "Проверка параметров на сервере на пустоту"
+  },
+  {
+    "Key": "FuKongZhi",
+    "Translation": "Назначение пустого значения"
+  },
+  {
+    "Key": "XiaoYan",
+    "Translation": "Проверка"
+  },
+  {
+    "Key": "HouDuanCanShuFuZhi",
+    "Translation": "Присвоение параметров на сервере"
+  },
+  {
+    "Key": "ZhuShi",
+    "Translation": "Комментарий"
+  },
+  {
+    "Key": "ChaRuRiZhiYuJu",
+    "Translation": "Вставка строки журнала"
+  },
+  {
+    "Key": "RiZhi",
+    "Translation": "Журнал"
+  },
+  {
+    "Key": "RiZhiRiQi",
+    "Translation": "Дата журнала"
+  },
+  {
+    "Key": "CaoZuoRen",
+    "Translation": "Оператор"
+  },
+  {
+    "Key": "CaoZuoNeiRong",
+    "Translation": "Содержание операции"
+  },
+  {
+    "Key": "FuZhi",
+    "Translation": "Копировать"
+  },
+  {
+    "Key": "BiaoFuZhiChengGong",
+    "Translation": "Копирование таблицы успешно"
+  },
+  {
+    "Key": "WeiZhaoDao",
+    "Translation": "Не найдено"
+  },
+  {
+    "Key": "YuanBiaoWenJian",
+    "Translation": "Оригинальный файл таблицы"
+  },
+  {
+    "Key": "BeiFenChengGong",
+    "Translation": "Резервное копирование успешно"
+  },
+  {
+    "Key": "BeiFenGuoChengCuoWu",
+    "Translation": "Ошибка в процессе резервного копирования"
+  },
+  {
+    "Key": "WeiZhiDingYaoFuZhiBiaoID",
+    "Translation": "Не указан ID таблицы для копирования"
+  },
+  {
+    "Key": "LeiXingMingCheng",
+    "Translation": "Имя типа"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "Тип данных"
+  },
+  {
+    "Key": "PaiXu",
+    "Translation": "Сортировка"
+  },
+  {
+    "Key": "QueRen",
+    "Translation": "Подтвердить"
+  },
+  {
+    "Key": "XiuGai",
+    "Translation": "Изменить"
+  },
+  {
+    "Key": "BeiZhu",
+    "Translation": "Примечание"
+  },
+  {
+    "Key": "MoRenZhi",
+    "Translation": "Значение по умолчанию"
+  },
+  {
+    "Key": "TuoDong",
+    "Translation": "Перетащить"
+  },
+  {
+    "Key": "ZiDuanMingCheng",
+    "Translation": "Имя поля"
+  },
+  {
+    "Key": "ZhuJian",
+    "Translation": "Первичный ключ"
+  },
+  {
+    "Key": "QingSheZhiYiGeZhuJian",
+    "Translation": "Пожалуйста, установите первичный ключ"
+  },
+  {
+    "Key": "FeiKong",
+    "Translation": "Не пусто"
+  },
+  {
+    "Key": "ZiZeng",
+    "Translation": "Автоинкремент"
+  },
+  {
+    "Key": "CaoZuo",
+    "Translation": "Действие"
+  },
+  {
+    "Key": "XinZengZiDuan",
+    "Translation": "Добавить поле"
+  },
+  {
+    "Key": "BaoCunBiaoJieGou",
+    "Translation": "Сохранить структуру таблицы"
+  },
+  {
+    "Key": "TiShiXinXi",
+    "Translation": "Сообщение"
+  },
+  {
+    "Key": "CuoWu",
+    "Translation": "Ошибка"
+  },
+  {
+    "Key": "QingXuanZheYiHang",
+    "Translation": "Пожалуйста, выберите строку"
+  },
+  {
+    "Key": "ZhiNengTongShiBianJiYiHang",
+    "Translation": "Можно редактировать только одну одновременно"
+  },
+  {
+    "Key": "QueDingShanChuMe",
+    "Translation": "Вы уверены, что хотите удалить?"
+  },
+  {
+    "Key": "JiaZaiChuXianYiChang",
+    "Translation": "Ошибка при загрузке"
+  },
+  {
+    "Key": "WuShuJu",
+    "Translation": "Нет данных"
+  },
+  {
+    "Key": "BaoCun",
+    "Translation": "Сохранить"
+  },
+  {
+    "Key": "BaoCunChengGong",
+    "Translation": "Сохранение успешно"
+  },
+  {
+    "Key": "BaoCunShiBai",
+    "Translation": "Ошибка при сохранении"
+  },
+  {
+    "Key": "ShengChengShiBai",
+    "Translation": "Генерация не удалась"
+  },
+  {
+    "Key": "YuanXiangMu",
+    "Translation": "Исходный проект"
+  },
+  {
+    "Key": "QingXuanZhe",
+    "Translation": "Пожалуйста, выберите"
+  },
+  {
+    "Key": "MuBiaoXiangMu",
+    "Translation": "Целевой проект"
+  },
+  {
+    "Key": "FuZhiBiao",
+    "Translation": "Копировать таблицу"
+  },
+  {
+    "Key": "CongQiTaXiangMu",
+    "Translation": "Из другого проекта"
+  },
+  {
+    "Key": "BeiFenXiangMu",
+    "Translation": "Резервный проект"
+  },
+  {
+    "Key": "YaoFuZhiDeBiao",
+    "Translation": "Таблица для копирования"
+  },
+  {
+    "Key": "ZhuRuYiLaiIP",
+    "Translation": "Получение IHttpContextAccessor через внедрение зависимостей для определения реального IP-адреса"
+  },
+  {
+    "Key": "POSTTianJiaZhuShi",
+    "Translation": "Добавление новых данных с помощью POST-запроса; параметр принимается как int, при отсутствии используется значение 0"
+  },
+  {
+    "Key": "JianChaCanShuWeiKong",
+    "Translation": "Проверка, не является ли параметр пустым"
+  },
+  {
+    "Key": "ChuanRuCanShuCuoWu",
+    "Translation": "Ошибка переданных параметров"
+  },
+  {
+    "Key": "HouDuanCanshuWeiKong",
+    "Translation": "На сервере (backend) проверяется, не пусты ли параметры"
+  },
+  {
+    "Key": "PanDuanDengluZhuangTai",
+    "Translation": "Проверка статуса входа в систему"
+  },
+  {
+    "Key": "PanDuanShiFouYouQuanXian",
+    "Translation": "Проверка наличия прав доступа"
+  },
+  {
+    "Key": "FanHuiXinShuJuID",
+    "Translation": "Возврат ID вновь добавленных данных"
+  },
+  {
+    "Key": "WuQuanXian",
+    "Translation": "Нет прав (нет доступа)"
+  },
+  {
+    "Key": "ShuJuMoXingFuZhi",
+    "Translation": "Присвоение данных модели"
+  },
+  {
+    "Key": "ShiLiHuaDuiXiang",
+    "Translation": "Создание экземпляра объекта уровня доступа к данным, отвечающего за взаимодействие с базой данных"
+  },
+  {
+    "Key": "TianJiaChengGong",
+    "Translation": "Добавление прошло успешно"
+  },
+  {
+    "Key": "TianJiaShiBai",
+    "Translation": "Ошибка при добавлении"
+  },
+  {
+    "Key": "POSTXiuGaiZhuShi",
+    "Translation": "Изменение данных через POST-запрос, параметр типа int; при отсутствии — значение по умолчанию 0"
+  },
+  {
+    "Key": "GengXingChengGong",
+    "Translation": "Успешное обновление"
+  },
+  {
+    "Key": "GengXingShiBai",
+    "Translation": "Не удалось обновить"
+  },
+  {
+    "Key": "POSTShanChuZhuShi",
+    "Translation": "Удалить по ID через POST-запрос и вернуть количество удалённых записей."
+  },
+  {
+    "Key": "DouHaoZhiFuZhuanLieBiao",
+    "Translation": "Преобразовать строку, разделённую запятыми, в список целых чисел"
+  },
+  {
+    "Key": "ChuShiHuaBianLiang",
+    "Translation": "Инициализировать переменную для хранения ID, которые нужно удалить"
+  },
+  {
+    "Key": "BianLiBingShanChu",
+    "Translation": "Перебирать каждый ID, находить и удалять соответствующий элемент"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "Успешное удаление"
+  },
+  {
+    "Key": "ShanChuShiBai",
+    "Translation": "Ошибка удаления"
+  },
+  {
+    "Key": "GetHuoQuFenYeShuJu",
+    "Translation": "Получить данные с пагинацией через GET-запрос, используя параметры Title, Page и PageSize для управления пагинацией."
+  },
+  {
+    "Key": "RuGuoWeiKongFuZhiKong",
+    "Translation": "Если Title имеет значение null или является пустой строкой, установить его в \"\", что означает отсутствие фильтрации"
+  },
+  {
+    "Key": "BuChuanDiBuSaiXuan",
+    "Translation": "Если параметр не передан или передана пустая строка, при выполнении запроса фильтрация не применяется."
+  },
+  {
+    "Key": "FenYeCanShuShiFouYouXiao",
+    "Translation": "Проверить, являются ли параметры пагинации корректными."
+  },
+  {
+    "Key": "JiSuanKaiShiTiaoShu",
+    "Translation": "Вычислить начальную запись: индекс первой записи на странице; Page — это текущий номер страницы, а PageSize — количество записей на странице."
+  },
+  {
+    "Key": "JiSuanMeiYeTiaoShu",
+    "Translation": "Определить, сколько записей отображается на странице."
+  },
+  {
+    "Key": "GetFangFa",
+    "Translation": "Вызвать метод Get для получения данных из базы, передав параметры пагинации: Title, начальную запись и количество записей на страницу."
+  },
+  {
+    "Key": "DataTableToListZhuanHuan",
+    "Translation": "С помощью метода DataTableToList преобразовать DataTable в List<T>, где T — это экземпляр класса AdminModel."
+  },
+  {
+    "Key": "FanHuiFenYeShuJu",
+    "Translation": "Вернуть пагинированные данные, используя единый формат ответа API, включая код состояния, сообщение, общее количество записей и коллекцию данных."
+  },
+  {
+    "Key": "ShengChengApi",
+    "Translation": "API"
+  },
+  {
+    "Key": "ShengQiTa",
+    "Translation": "прочего"
+  },
+  {
+    "Key": "ShengChengDalSql",
+    "Translation": "Dal(SQL)"
+  },
+  {
+    "Key": "ShengChengDal",
+    "Translation": "Dal"
+  },
+  {
+    "Key": "ShengChengModel",
+    "Translation": "Model"
+  },
+  {
+    "Key": "ShengChengCunChu",
+    "Translation": "Pro"
+  },
+  {
+    "Key": "RiZhiBiaoJieGou",
+    "Translation": "Table Log"
+  },
+  {
+    "Key": "ShengChengBiaoJieGou",
+    "Translation": "Table"
+  },
+  {
+    "Key": "ChaKan",
+    "Translation": "Просмотр"
+  },
+  {
+    "Key": "GuanliBiao",
+    "Translation": "Таблица управления"
+  }
+]

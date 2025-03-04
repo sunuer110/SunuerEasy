@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POST GET请求应用实例</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            padding: 20px;
+        }
+        .show {
+            text-align: center;
+            padding: 40px;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 0 auto;
+        }
+        pre {
+            color: #fff;
+            background-color: #000;
+            padding: 1rem;
+            border: 1px solid #2598ed;
+        }
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+        .about{ font-size:13px; line-height:36px;}
+    </style>
+    <script src="jquery-3.6.2.min.js"></script>
+</head>
+<body>
+   <div class="show"><a href="">查看使用说明</a></div>
+   <div class="about">
+       在 AJAX 请求中，contentType 属性指定了发送到服务器的数据类型。以下是一些常用的 contentType 值：
+       <br /> <br />
+              <strong> application/x-www-form-urlencoded：</strong>
+       <br />
+       这是 POST 请求的默认内容类型。 <br />
+       数据以键值对的形式编码，每对之间用 & 分隔，每个键和值之间用 = 分隔。 <br />
+       示例：key1=value1&key2=value2 <br /> <br />
+       <strong>multipart/form-data：</strong>
+       <br />
+
+       当你需要上传文件和其他表单数据时使用。 <br />
+       数据被分割成多个部分，每部分包含一块数据，用边界字符串分隔。 <br />
+       常用于包含文件的表单提交。 <br /> <br />
+       <strong>application/json：</strong> <br />
+
+       数据以 JSON 格式发送。 <br />
+       适用于发送复杂的数据结构，如对象或数组。 <br />
+       示例：{"key1":"value1","key2":"value2"} <br /> <br />
+       <strong>text/plain：</strong><br />
+
+       数据以纯文本形式发送。 <br />
+       适用于发送简单的文本数据，无需编码。 <br />
+       示例：Some plain text data <br /> <br />
+       <strong> application/xml：</strong> <br />
+
+       数据以 XML 格式发送。 <br />
+       用于发送 XML 数据。 <br />
+       示例：<code>&lt;root&gt;&lt;key1&gt;value1&lt;/key1&gt;&lt;key2&gt;value2&lt;/key2&gt;&lt;/root&gt;</code>
+       <br /> <br />
+
+       <strong>text/html：</strong> <br />
+
+       数据以 HTML 格式发送。 <br />
+       可用于发送 HTML 格式化的数据。 <br />
+       示例：<code>&lt;div&gt;&lt;p&gt;Some HTML data&lt;/p&gt;&lt;/div&gt;</code>
+   </div>
+    <script>
+        $.ajax({
+    url: '/api/Users/Delete',//请求的地址，改成您自己的
+            type: 'POST',//可更改为GET
+            contentType: 'application/json',//可更改为对应的请求类型
+            headers: {//一般接口是不需要设置的
+                'Custom-Header-Name': 'CustomHeaderValue'
+            },
+            data: JSON.stringify({
+                //参数可以随意增减，换成您需要的参数，一行一个参数比较好阅读
+                "id": "23"
+            }),
+            success: function (data) {
+                console.log(data);
+            }
+        });
+    </script>
+</body>
+</html>

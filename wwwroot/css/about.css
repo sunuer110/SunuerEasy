@@ -1,0 +1,62 @@
+﻿
+
+.countent {
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.xieyi { text-align:left; padding:20px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 36px;
+}
+
+.countent a {
+    color: #3498db;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+    font-weight: bold;
+}
+
+.about {
+    color: #3498db;
+    border-radius: 8px;
+    padding: 20px 30px;
+    margin: 15px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0);
+    opacity: 0;
+    transform: translateY(30px);
+    animation: slideIn 1s forwards ease-out;
+}
+
+/* 动画效果：滑入并淡入 */
+@keyframes slideIn {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* 设置不同的动画时机 */
+.about:nth-child(1) {
+    animation-delay: 0.5s;
+}
+
+.about:nth-child(2) {
+    animation-delay: 1s;
+}
+
+/* 添加渐变背景的过渡效果 */
+.about:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0);
+}

@@ -1,0 +1,634 @@
+[
+  {
+    "Key": "CanShuCuoWu",
+    "Translation": "Fehler bei übergebenen Parametern"
+  },
+  {
+    "Key": "SheZhiChengGong",
+    "Translation": "Erfolgreich eingestellt"
+  },
+  {
+    "Key": "CeBianShenSuo",
+    "Translation": "Seitliche Ein-/Ausklappung"
+  },
+  {
+    "Key": "GuanWang",
+    "Translation": "Offizielle Webseite"
+  },
+  {
+    "Key": "YuYanSheZhi",
+    "Translation": "Spracheinstellungen"
+  },
+  {
+    "Key": "Shuaxin",
+    "Translation": "Aktualisieren"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "Datentyp"
+  },
+  {
+    "Key": "MoRenCanShu",
+    "Translation": "Standardparameter"
+  },
+  {
+    "Key": "QuanBuXiangMu",
+    "Translation": "Alle Projekte"
+  },
+  {
+    "Key": "GuanBiDangQianBiaoQian",
+    "Translation": "Aktuellen Tab schließen"
+  },
+  {
+    "Key": "GuanBiQiTaBiaoQian",
+    "Translation": "Andere Tabs schließen"
+  },
+  {
+    "Key": "GuanBiQuanBuBiaoQian",
+    "Translation": "Alle Tabs schließen"
+  },
+  {
+    "Key": "KuaiJieFangShi",
+    "Translation": "Verknüpfung"
+  },
+  {
+    "Key": "XiangMuGuanLi",
+    "Translation": "Projektverwaltung"
+  },
+  {
+    "Key": "MianZeShengMing",
+    "Translation": "Haftungsausschluss"
+  },
+  {
+    "Key": "ShiYongQianYueDu",
+    "Translation": "Bitte vor der Nutzung lesen"
+  },
+  {
+    "Key": "BanBenXinXi",
+    "Translation": "Versionsinformationen"
+  },
+  {
+    "Key": "GongJuMingCheng",
+    "Translation": "Werkzeugname"
+  },
+  {
+    "Key": "DangQianBangBen",
+    "Translation": "Aktuelle Version"
+  },
+  {
+    "Key": "GengXinRiZhi",
+    "Translation": "Änderungsprotokoll"
+  },
+  {
+    "Key": "JiYuKuangJia",
+    "Translation": "Basierend auf dem Framework"
+  },
+  {
+    "Key": "QianDuanKuangJia",
+    "Translation": "Frontend-Framework"
+  },
+  {
+    "Key": "ZhuYaoTeSe",
+    "Translation": "Hauptmerkmale"
+  },
+  {
+    "Key": "ZhuYaoTeSes",
+    "Translation": "Schnelle Codegenerierung, kompatibel mit bestehenden Projekten, Steigerung der Codierungseffizienz."
+  },
+  {
+    "Key": "HuoQuQuDao",
+    "Translation": "Bezugsquellen"
+  },
+  {
+    "Key": "ChanPinDongTai",
+    "Translation": "Produktneuigkeiten"
+  },
+  {
+    "Key": "HuoDe",
+    "Translation": "Produktneuigkeiten"
+  },
+  {
+    "Key": "ZuoZheXinYu",
+    "Translation": "Gedanken des Autors"
+  },
+  {
+    "Key": "YaozhichiO",
+    "Translation": "Bitte unterstützen!"
+  },
+  {
+    "Key": "ZuoZheXinYu1",
+    "Translation": "In meinen vielen Jahren Erfahrung in der Entwicklung habe ich festgestellt, dass viele Entwicklungsaufgaben repetitiv sind, wie das Generieren von Basiscode, das Verwalten von Datenbankfeldern oder das Suchen von gespeicherten Dateien. Obwohl diese Aufgaben einfach erscheinen, nehmen sie viel Zeit und Energie in Anspruch und beeinträchtigen die Entwicklungseffizienz und den Projektfortschritt erheblich."
+  },
+  {
+    "Key": "ZuoZheXinYu2",
+    "Translation": "Daher habe ich mich entschieden, Sunuer Easy zu entwickeln, ein intelligentes Code-Generierungstool, das darauf abzielt, diese mühsamen Aufgaben zu vereinfachen. Durch Automatisierung hilft es Entwicklern, Code schnell zu generieren, Datenbankfelder zu verwalten, Dateien zu organisieren und Zeit zu sparen, damit sie sich auf Geschäftslogik und Innovation konzentrieren können."
+  },
+  {
+    "Key": "ZuoZheXinYu3",
+    "Translation": "Das Ziel von Sunuer Easy ist es, die Entwicklungseffizienz zu steigern, wiederholte Arbeiten zu reduzieren und Entwicklern in einer sich schnell verändernden technologischen Umgebung effizienteres Arbeiten zu ermöglichen und mehr Kreativität freizusetzen."
+  },
+  {
+    "Key": "ChengGong",
+    "Translation": "Erfolg"
+  },
+  {
+    "Key": "ShuJuWenJianBuCunZai",
+    "Translation": "Datei nicht gefunden"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingXiangMu",
+    "Translation": "Das angegebene Projekt wurde nicht gefunden"
+  },
+  {
+    "Key": "XiuGaiChengGong",
+    "Translation": "Erfolgreich geändert"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "Erfolgreich gelöscht"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingBiao",
+    "Translation": "Die angegebene Tabelle wurde nicht gefunden"
+  },
+  {
+    "Key": "XiangMuWenJianWeiZhaoDao",
+    "Translation": "Projektdatei nicht gefunden"
+  },
+  {
+    "Key": "MoXing",
+    "Translation": "Modell"
+  },
+  {
+    "Key": "ShuoMing",
+    "Translation": "Beschreibung"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "Hinzufügen"
+  },
+  {
+    "Key": "GengXing",
+    "Translation": "Aktualisieren"
+  },
+  {
+    "Key": "ZhuJianZiDuanWeiDingYi",
+    "Translation": "Primärschlüsselfeld nicht definiert"
+  },
+  {
+    "Key": "ShanChu",
+    "Translation": "Löschen"
+  },
+  {
+    "Key": "BianJi",
+    "Translation": "Bearbeiten"
+  },
+  {
+    "Key": "ShanChuYiTiaoJiLu",
+    "Translation": "Einen Eintrag löschen"
+  },
+  {
+    "Key": "XiangMuMingCheng",
+    "Translation": "Projektname"
+  },
+  {
+    "Key": "XiangMuMingChengCn",
+    "Translation": "Projektalias"
+  },
+  {
+    "Key": "GengXinRen",
+    "Translation": "Aktualisiert von"
+  },
+  {
+    "Key": "YingXiangHangShu",
+    "Translation": "Anzahl der betroffenen Zeilen"
+  },
+  {
+    "Key": "HuoQu",
+    "Translation": "Abrufen"
+  },
+  {
+    "Key": "YiTiaoJiLu",
+    "Translation": "Ein Eintrag"
+  },
+  {
+    "Key": "BiaoMingCheng",
+    "Translation": "Tabellenname"
+  },
+  {
+    "Key": "DuQuJiLuLieBiao",
+    "Translation": "Datensatzliste lesen"
+  },
+  {
+    "Key": "DanTiaoShuJu",
+    "Translation": "Einzelner Datensatz"
+  },
+  {
+    "Key": "ZhuJianZhi",
+    "Translation": "Primärschlüsselwert"
+  },
+  {
+    "Key": "ZhunBeiCanShu",
+    "Translation": "Parameter vorbereiten"
+  },
+  {
+    "Key": "YeMa",
+    "Translation": "Seitennummer"
+  },
+  {
+    "Key": "MeiYeShuLiang",
+    "Translation": "Anzahl pro Seite"
+  },
+  {
+    "Key": "LieBiao",
+    "Translation": "Liste"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "Anzahl"
+  },
+  {
+    "Key": "FanHui",
+    "Translation": "Zurück"
+  },
+  {
+    "Key": "DanTiao",
+    "Translation": "Einzeln"
+  },
+  {
+    "Key": "XinXiSQL",
+    "Translation": "Information - SQL-Modus"
+  },
+  {
+    "Key": "JieShouCanShu",
+    "Translation": "Parameter empfangen"
+  },
+  {
+    "Key": "HouDuanCanShuPanDuan",
+    "Translation": "Backend-Parameter prüfen, ob sie leer sind"
+  },
+  {
+    "Key": "FuKongZhi",
+    "Translation": "Nullwert zuweisen"
+  },
+  {
+    "Key": "XiaoYan",
+    "Translation": "Validierung"
+  },
+  {
+    "Key": "HouDuanCanShuFuZhi",
+    "Translation": "Zuweisung von Parametern im Backend"
+  },
+  {
+    "Key": "ZhuShi",
+    "Translation": "Kommentar"
+  },
+  {
+    "Key": "ChaRuRiZhiYuJu",
+    "Translation": "Einfügen von Protokollanweisungen"
+  },
+  {
+    "Key": "RiZhi",
+    "Translation": "Protokoll"
+  },
+  {
+    "Key": "RiZhiRiQi",
+    "Translation": "Protokolldatum"
+  },
+  {
+    "Key": "CaoZuoRen",
+    "Translation": "Benutzer"
+  },
+  {
+    "Key": "CaoZuoNeiRong",
+    "Translation": "Vorgangsbeschreibung"
+  },
+  {
+    "Key": "FuZhi",
+    "Translation": "Kopieren"
+  },
+  {
+    "Key": "BiaoFuZhiChengGong",
+    "Translation": "Tabellenkopie erfolgreich"
+  },
+  {
+    "Key": "WeiZhaoDao",
+    "Translation": "Nicht gefunden"
+  },
+  {
+    "Key": "YuanBiaoWenJian",
+    "Translation": "Ursprüngliche Tabellen-Datei"
+  },
+  {
+    "Key": "BeiFenChengGong",
+    "Translation": "Sicherung erfolgreich"
+  },
+  {
+    "Key": "BeiFenGuoChengCuoWu",
+    "Translation": "Fehler beim Sicherungsvorgang"
+  },
+  {
+    "Key": "WeiZhiDingYaoFuZhiBiaoID",
+    "Translation": "Keine zu kopierende Tabellen-ID angegeben"
+  },
+  {
+    "Key": "LeiXingMingCheng",
+    "Translation": "Typname"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "Datentyp"
+  },
+  {
+    "Key": "PaiXu",
+    "Translation": "Sortieren"
+  },
+  {
+    "Key": "QueRen",
+    "Translation": "Bestätigen"
+  },
+  {
+    "Key": "XiuGai",
+    "Translation": "Bearbeiten"
+  },
+  {
+    "Key": "BeiZhu",
+    "Translation": "Bemerkung"
+  },
+  {
+    "Key": "MoRenZhi",
+    "Translation": "Standardwert"
+  },
+  {
+    "Key": "TuoDong",
+    "Translation": "Ziehen"
+  },
+  {
+    "Key": "ZiDuanMingCheng",
+    "Translation": "Feldname"
+  },
+  {
+    "Key": "ZhuJian",
+    "Translation": "Primärschlüssel"
+  },
+  {
+    "Key": "QingSheZhiYiGeZhuJian",
+    "Translation": "Bitte setzen Sie einen Primärschlüssel"
+  },
+  {
+    "Key": "FeiKong",
+    "Translation": "Nicht null"
+  },
+  {
+    "Key": "ZiZeng",
+    "Translation": "Auto-Inkrement"
+  },
+  {
+    "Key": "CaoZuo",
+    "Translation": "Aktion"
+  },
+  {
+    "Key": "XinZengZiDuan",
+    "Translation": "Feld hinzufügen"
+  },
+  {
+    "Key": "BaoCunBiaoJieGou",
+    "Translation": "Tabellenstruktur speichern"
+  },
+  {
+    "Key": "TiShiXinXi",
+    "Translation": "Hinweismeldung"
+  },
+  {
+    "Key": "CuoWu",
+    "Translation": "Fehler"
+  },
+  {
+    "Key": "QingXuanZheYiHang",
+    "Translation": "Bitte wählen Sie eine Zeile aus"
+  },
+  {
+    "Key": "ZhiNengTongShiBianJiYiHang",
+    "Translation": "Nur eine kann gleichzeitig bearbeitet werden"
+  },
+  {
+    "Key": "QueDingShanChuMe",
+    "Translation": "Möchten Sie wirklich löschen?"
+  },
+  {
+    "Key": "JiaZaiChuXianYiChang",
+    "Translation": "Fehler beim Laden"
+  },
+  {
+    "Key": "WuShuJu",
+    "Translation": "Keine Daten"
+  },
+  {
+    "Key": "BaoCun",
+    "Translation": "Speichern"
+  },
+  {
+    "Key": "BaoCunChengGong",
+    "Translation": "Erfolgreich gespeichert"
+  },
+  {
+    "Key": "BaoCunShiBai",
+    "Translation": "Speichern fehlgeschlagen"
+  },
+  {
+    "Key": "ShengChengShiBai",
+    "Translation": "Generierung fehlgeschlagen"
+  },
+  {
+    "Key": "YuanXiangMu",
+    "Translation": "Quellprojekt"
+  },
+  {
+    "Key": "QingXuanZhe",
+    "Translation": "Bitte auswählen"
+  },
+  {
+    "Key": "MuBiaoXiangMu",
+    "Translation": "Zielprojekt"
+  },
+  {
+    "Key": "FuZhiBiao",
+    "Translation": "Tabelle kopieren"
+  },
+  {
+    "Key": "CongQiTaXiangMu",
+    "Translation": "Aus einem anderen Projekt"
+  },
+  {
+    "Key": "BeiFenXiangMu",
+    "Translation": "Sicherungsprojekt"
+  },
+  {
+    "Key": "YaoFuZhiDeBiao",
+    "Translation": "Zu kopierende Tabelle"
+  },
+  {
+    "Key": "ZhuRuYiLaiIP",
+    "Translation": "Zugriff auf IHttpContextAccessor per Dependency Injection, um die tatsächliche IP-Adresse abzurufen"
+  },
+  {
+    "Key": "POSTTianJiaZhuShi",
+    "Translation": "Neue Daten über einen POST-Request hinzufügen; der Parameter wird als int entgegen­ge­nommen und ist standardmäßig 0, falls er nicht vorhanden ist"
+  },
+  {
+    "Key": "JianChaCanShuWeiKong",
+    "Translation": "Parameter auf Leerheit prüfen"
+  },
+  {
+    "Key": "ChuanRuCanShuCuoWu",
+    "Translation": "Falsche übergebene Parameter"
+  },
+  {
+    "Key": "HouDuanCanshuWeiKong",
+    "Translation": "Backend prüft, ob die Parameter leer sind"
+  },
+  {
+    "Key": "PanDuanDengluZhuangTai",
+    "Translation": "Anmeldestatus prüfen"
+  },
+  {
+    "Key": "PanDuanShiFouYouQuanXian",
+    "Translation": "Prüfen, ob Berechtigungen vorhanden sind"
+  },
+  {
+    "Key": "FanHuiXinShuJuID",
+    "Translation": "Die ID der neu erstellten Daten zurückgeben"
+  },
+  {
+    "Key": "WuQuanXian",
+    "Translation": "Keine Berechtigung"
+  },
+  {
+    "Key": "ShuJuMoXingFuZhi",
+    "Translation": "Zuordnung des Datenmodells"
+  },
+  {
+    "Key": "ShiLiHuaDuiXiang",
+    "Translation": "Instanziierung eines Data-Access-Layers-Objekts, das für die Datenbankzugriffe verantwortlich ist"
+  },
+  {
+    "Key": "TianJiaChengGong",
+    "Translation": "Erfolgreich hinzugefügt"
+  },
+  {
+    "Key": "TianJiaShiBai",
+    "Translation": "Hinzufügen fehlgeschlagen"
+  },
+  {
+    "Key": "POSTXiuGaiZhuShi",
+    "Translation": "Daten über einen POST-Request ändern, Parameter vom Typ int; wenn nicht vorhanden, ist der Standardwert 0"
+  },
+  {
+    "Key": "GengXingChengGong",
+    "Translation": "Aktualisierung erfolgreich"
+  },
+  {
+    "Key": "GengXingShiBai",
+    "Translation": "Aktualisierung fehlgeschlagen"
+  },
+  {
+    "Key": "POSTShanChuZhuShi",
+    "Translation": "Löschen nach ID per POST-Anfrage und Zurückgeben der Anzahl gelöschter Datensätze."
+  },
+  {
+    "Key": "DouHaoZhiFuZhuanLieBiao",
+    "Translation": "Eine durch Kommata getrennte Zeichenkette in eine Integer-Liste umwandeln"
+  },
+  {
+    "Key": "ChuShiHuaBianLiang",
+    "Translation": "Eine Variable initialisieren, um die zu löschenden IDs zu speichern"
+  },
+  {
+    "Key": "BianLiBingShanChu",
+    "Translation": "Jede ID durchlaufen, das entsprechende Element suchen und löschen"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "Erfolgreich gelöscht"
+  },
+  {
+    "Key": "ShanChuShiBai",
+    "Translation": "Löschen fehlgeschlagen"
+  },
+  {
+    "Key": "GetHuoQuFenYeShuJu",
+    "Translation": "Paginierte Daten per GET-Anfrage abrufen, wobei die Parameter Title, Page und PageSize die Paginierung steuern."
+  },
+  {
+    "Key": "RuGuoWeiKongFuZhiKong",
+    "Translation": "Wenn Title null oder leer ist, auf \"\" setzen, was bedeutet, dass kein Filter angewendet wird"
+  },
+  {
+    "Key": "BuChuanDiBuSaiXuan",
+    "Translation": "Wenn kein Parameter übergeben wird oder eine leere Zeichenkette übermittelt wird, erfolgt beim Abfragen kein Filter."
+  },
+  {
+    "Key": "FenYeCanShuShiFouYouXiao",
+    "Translation": "Prüfen, ob die Paging-Parameter gültig sind."
+  },
+  {
+    "Key": "JiSuanKaiShiTiaoShu",
+    "Translation": "Berechnung des Startdatensatzes: Der Index des ersten Datensatzes auf der Seite; Page ist die aktuelle Seitenzahl, PageSize die Anzahl der Datensätze pro Seite."
+  },
+  {
+    "Key": "JiSuanMeiYeTiaoShu",
+    "Translation": "Ermittlung, wie viele Datensätze pro Seite angezeigt werden."
+  },
+  {
+    "Key": "GetFangFa",
+    "Translation": "Aufruf der Get-Methode, um Daten aus der Datenbank abzurufen, wobei die Paging-Parameter Title, Startdatensatz und PageSize übergeben werden."
+  },
+  {
+    "Key": "DataTableToListZhuanHuan",
+    "Translation": "Mit der Methode DataTableToList wird das DataTable in eine List<T> umgewandelt, wobei T eine Instanz der Klasse AdminModel ist."
+  },
+  {
+    "Key": "FanHuiFenYeShuJu",
+    "Translation": "Rückgabe der paginierten Daten in einem einheitlichen API-Antwortformat mit Statuscode, Nachricht, Gesamtanzahl und Datensammlung."
+  },
+  {
+    "Key": "ShengChengApi",
+    "Translation": "API"
+  },
+  {
+    "Key": "ShengQiTa",
+    "Translation": "Sonstiges "
+  },
+  {
+    "Key": "ShengChengDalSql",
+    "Translation": "Dal(SQL)"
+  },
+  {
+    "Key": "ShengChengDal",
+    "Translation": "Dal"
+  },
+  {
+    "Key": "ShengChengModel",
+    "Translation": "Model"
+  },
+  {
+    "Key": "ShengChengCunChu",
+    "Translation": "Pro"
+  },
+  {
+    "Key": "RiZhiBiaoJieGou",
+    "Translation": "Table Logs"
+  },
+  {
+    "Key": "ShengChengBiaoJieGou",
+    "Translation": "Table"
+  },
+  {
+    "Key": "ChaKan",
+    "Translation": "Anzeigen"
+  },
+  {
+    "Key": "GuanliBiao",
+    "Translation": "Verwaltungstabelle"
+  }
+]

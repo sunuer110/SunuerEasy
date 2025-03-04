@@ -1,0 +1,634 @@
+[
+  {
+    "Key": "CanShuCuoWu",
+    "Translation": "傳入參數錯誤"
+  },
+  {
+    "Key": "SheZhiChengGong",
+    "Translation": "設置成功"
+  },
+  {
+    "Key": "CeBianShenSuo",
+    "Translation": "側邊伸縮"
+  },
+  {
+    "Key": "GuanWang",
+    "Translation": "官網"
+  },
+  {
+    "Key": "YuYanSheZhi",
+    "Translation": "語言設置"
+  },
+  {
+    "Key": "Shuaxin",
+    "Translation": "刷新"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "數據類型"
+  },
+  {
+    "Key": "MoRenCanShu",
+    "Translation": "默認參數"
+  },
+  {
+    "Key": "QuanBuXiangMu",
+    "Translation": "全部項目"
+  },
+  {
+    "Key": "GuanBiDangQianBiaoQian",
+    "Translation": "關閉當前標籤頁"
+  },
+  {
+    "Key": "GuanBiQiTaBiaoQian",
+    "Translation": "關閉其他標籤頁"
+  },
+  {
+    "Key": "GuanBiQuanBuBiaoQian",
+    "Translation": "關閉全部標籤頁"
+  },
+  {
+    "Key": "KuaiJieFangShi",
+    "Translation": "快捷方式"
+  },
+  {
+    "Key": "XiangMuGuanLi",
+    "Translation": "項目管理"
+  },
+  {
+    "Key": "MianZeShengMing",
+    "Translation": "免責聲明"
+  },
+  {
+    "Key": "ShiYongQianYueDu",
+    "Translation": "使用前請閱讀"
+  },
+  {
+    "Key": "BanBenXinXi",
+    "Translation": "版本信息"
+  },
+  {
+    "Key": "GongJuMingCheng",
+    "Translation": "工具名稱"
+  },
+  {
+    "Key": "DangQianBangBen",
+    "Translation": "當前版本"
+  },
+  {
+    "Key": "GengXinRiZhi",
+    "Translation": "更新日志"
+  },
+  {
+    "Key": "JiYuKuangJia",
+    "Translation": "基於框架"
+  },
+  {
+    "Key": "QianDuanKuangJia",
+    "Translation": "前端框架"
+  },
+  {
+    "Key": "ZhuYaoTeSe",
+    "Translation": "主要特色"
+  },
+  {
+    "Key": "ZhuYaoTeSes",
+    "Translation": "快速代碼生成、與現有項目兼容、提升編碼效率。"
+  },
+  {
+    "Key": "HuoQuQuDao",
+    "Translation": "獲取渠道"
+  },
+  {
+    "Key": "ChanPinDongTai",
+    "Translation": "產品動態"
+  },
+  {
+    "Key": "HuoDe",
+    "Translation": "獲得"
+  },
+  {
+    "Key": "ZuoZheXinYu",
+    "Translation": "作者心語"
+  },
+  {
+    "Key": "YaozhichiO",
+    "Translation": "要支持喔"
+  },
+  {
+    "Key": "ZuoZheXinYu1",
+    "Translation": "在多年的開發經驗中，我發現許多開發任務都是重複性工作，例如生成基礎代碼、管理數據庫字段、查找存儲的數據文件等。這些任務雖然看似簡單，卻佔用了大量的時間和精力，嚴重影響了開發效率和項目進度。"
+  },
+  {
+    "Key": "ZuoZheXinYu2",
+    "Translation": "因此，我決定開發 Sunuer Easy，一個智能化的代碼生成工具，旨在簡化這些繁瑣的任務。通過自動化的方式，它幫助開發者快速生成代碼、管理數據庫字段、組織數據文件，節省時間，讓開發者能專注於業務邏輯和創新。"
+  },
+  {
+    "Key": "ZuoZheXinYu3",
+    "Translation": "Sunuer Easy 的目標是提高開發效率，減少重複勞動，幫助開發者在快速變化的技術環境中更加高效地工作，釋放更多創造力。"
+  },
+  {
+    "Key": "ChengGong",
+    "Translation": "成功"
+  },
+  {
+    "Key": "ShuJuWenJianBuCunZai",
+    "Translation": "數據文件不存在"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingXiangMu",
+    "Translation": "未找到指定項目"
+  },
+  {
+    "Key": "XiuGaiChengGong",
+    "Translation": "修改成功"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "删除成功"
+  },
+  {
+    "Key": "WeiZhaoDaoZhiDingBiao",
+    "Translation": "未找到指定表"
+  },
+  {
+    "Key": "XiangMuWenJianWeiZhaoDao",
+    "Translation": "項目文件未找到"
+  },
+  {
+    "Key": "MoXing",
+    "Translation": "模型"
+  },
+  {
+    "Key": "ShuoMing",
+    "Translation": "說明"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "添加"
+  },
+  {
+    "Key": "GengXing",
+    "Translation": "更新"
+  },
+  {
+    "Key": "ZhuJianZiDuanWeiDingYi",
+    "Translation": "主鍵字段未定義"
+  },
+  {
+    "Key": "ShanChu",
+    "Translation": "删除"
+  },
+  {
+    "Key": "BianJi",
+    "Translation": "編輯"
+  },
+  {
+    "Key": "ShanChuYiTiaoJiLu",
+    "Translation": "刪除一條記錄"
+  },
+  {
+    "Key": "XiangMuMingCheng",
+    "Translation": "項目名稱"
+  },
+  {
+    "Key": "XiangMuMingChengCn",
+    "Translation": "項目別稱"
+  },
+  {
+    "Key": "GengXinRen",
+    "Translation": "更新人"
+  },
+  {
+    "Key": "YingXiangHangShu",
+    "Translation": "影響行數"
+  },
+  {
+    "Key": "HuoQu",
+    "Translation": "獲取"
+  },
+  {
+    "Key": "YiTiaoJiLu",
+    "Translation": "一條記錄"
+  },
+  {
+    "Key": "BiaoMingCheng",
+    "Translation": "表名"
+  },
+  {
+    "Key": "DuQuJiLuLieBiao",
+    "Translation": "讀取記錄列表"
+  },
+  {
+    "Key": "DanTiaoShuJu",
+    "Translation": "單條數據"
+  },
+  {
+    "Key": "ZhuJianZhi",
+    "Translation": "主鍵值"
+  },
+  {
+    "Key": "ZhunBeiCanShu",
+    "Translation": "準備參數"
+  },
+  {
+    "Key": "YeMa",
+    "Translation": "頁碼"
+  },
+  {
+    "Key": "MeiYeShuLiang",
+    "Translation": "每頁數量"
+  },
+  {
+    "Key": "LieBiao",
+    "Translation": "列表"
+  },
+  {
+    "Key": "Tianjia",
+    "Translation": "數量"
+  },
+  {
+    "Key": "FanHui",
+    "Translation": "返回"
+  },
+  {
+    "Key": "DanTiao",
+    "Translation": "單條"
+  },
+  {
+    "Key": "XinXiSQL",
+    "Translation": "信息-SQL方式"
+  },
+  {
+    "Key": "JieShouCanShu",
+    "Translation": "接收參數"
+  },
+  {
+    "Key": "HouDuanCanShuPanDuan",
+    "Translation": "後端參數判斷是否為空"
+  },
+  {
+    "Key": "FuKongZhi",
+    "Translation": "賦空值"
+  },
+  {
+    "Key": "XiaoYan",
+    "Translation": "校驗"
+  },
+  {
+    "Key": "HouDuanCanShuFuZhi",
+    "Translation": "後端參數賦值"
+  },
+  {
+    "Key": "ZhuShi",
+    "Translation": "註解"
+  },
+  {
+    "Key": "ChaRuRiZhiYuJu",
+    "Translation": "插入日誌語句"
+  },
+  {
+    "Key": "RiZhi",
+    "Translation": "日誌"
+  },
+  {
+    "Key": "RiZhiRiQi",
+    "Translation": "日誌日期"
+  },
+  {
+    "Key": "CaoZuoRen",
+    "Translation": "操作人"
+  },
+  {
+    "Key": "CaoZuoNeiRong",
+    "Translation": "操作内容"
+  },
+  {
+    "Key": "FuZhi",
+    "Translation": "複製"
+  },
+  {
+    "Key": "BiaoFuZhiChengGong",
+    "Translation": "表複製成功"
+  },
+  {
+    "Key": "WeiZhaoDao",
+    "Translation": "未找到"
+  },
+  {
+    "Key": "YuanBiaoWenJian",
+    "Translation": "原表文件"
+  },
+  {
+    "Key": "BeiFenChengGong",
+    "Translation": "備份成功"
+  },
+  {
+    "Key": "BeiFenGuoChengCuoWu",
+    "Translation": "備份過程中發生錯誤"
+  },
+  {
+    "Key": "WeiZhiDingYaoFuZhiBiaoID",
+    "Translation": "未指定要複製的表ID"
+  },
+  {
+    "Key": "LeiXingMingCheng",
+    "Translation": "類型名稱"
+  },
+  {
+    "Key": "ShuJuLeiXing",
+    "Translation": "數據類型"
+  },
+  {
+    "Key": "PaiXu",
+    "Translation": "排序"
+  },
+  {
+    "Key": "QueRen",
+    "Translation": "確認"
+  },
+  {
+    "Key": "XiuGai",
+    "Translation": "修改"
+  },
+  {
+    "Key": "BeiZhu",
+    "Translation": "備註"
+  },
+  {
+    "Key": "MoRenZhi",
+    "Translation": "默認值"
+  },
+  {
+    "Key": "TuoDong",
+    "Translation": "拖動"
+  },
+  {
+    "Key": "ZiDuanMingCheng",
+    "Translation": "字段名稱"
+  },
+  {
+    "Key": "ZhuJian",
+    "Translation": "主鍵"
+  },
+  {
+    "Key": "QingSheZhiYiGeZhuJian",
+    "Translation": "請設置一個主鍵"
+  },
+  {
+    "Key": "FeiKong",
+    "Translation": "非空"
+  },
+  {
+    "Key": "ZiZeng",
+    "Translation": "自增"
+  },
+  {
+    "Key": "CaoZuo",
+    "Translation": "操作"
+  },
+  {
+    "Key": "XinZengZiDuan",
+    "Translation": "新增字段"
+  },
+  {
+    "Key": "BaoCunBiaoJieGou",
+    "Translation": "保存表結構"
+  },
+  {
+    "Key": "TiShiXinXi",
+    "Translation": "提示信息"
+  },
+  {
+    "Key": "CuoWu",
+    "Translation": "錯誤"
+  },
+  {
+    "Key": "QingXuanZheYiHang",
+    "Translation": "請選擇一行"
+  },
+  {
+    "Key": "ZhiNengTongShiBianJiYiHang",
+    "Translation": "只能同時編輯一個"
+  },
+  {
+    "Key": "QueDingShanChuMe",
+    "Translation": "確定刪除嗎"
+  },
+  {
+    "Key": "JiaZaiChuXianYiChang",
+    "Translation": "加載出現異常"
+  },
+  {
+    "Key": "WuShuJu",
+    "Translation": "無數據"
+  },
+  {
+    "Key": "BaoCun",
+    "Translation": "保存"
+  },
+  {
+    "Key": "BaoCunChengGong",
+    "Translation": "保存成功"
+  },
+  {
+    "Key": "BaoCunShiBai",
+    "Translation": "保存失败"
+  },
+  {
+    "Key": "ShengChengShiBai",
+    "Translation": "生成失敗"
+  },
+  {
+    "Key": "YuanXiangMu",
+    "Translation": "源项目"
+  },
+  {
+    "Key": "QingXuanZhe",
+    "Translation": "請選擇"
+  },
+  {
+    "Key": "MuBiaoXiangMu",
+    "Translation": "目標項目"
+  },
+  {
+    "Key": "FuZhiBiao",
+    "Translation": "複製表"
+  },
+  {
+    "Key": "CongQiTaXiangMu",
+    "Translation": "從其他項目"
+  },
+  {
+    "Key": "BeiFenXiangMu",
+    "Translation": "備份項目"
+  },
+  {
+    "Key": "YaoFuZhiDeBiao",
+    "Translation": "要複製的表"
+  },
+  {
+    "Key": "ZhuRuYiLaiIP",
+    "Translation": "通過依賴注入獲取 IHttpContextAccessor - 用來獲取實際的 IP 地址"
+  },
+  {
+    "Key": "POSTTianJiaZhuShi",
+    "Translation": "通過 POST 請求添加新數據，參數接收 int 型，若沒有該參數則默認為 0"
+  },
+  {
+    "Key": "JianChaCanShuWeiKong",
+    "Translation": "檢查參數是否為空"
+  },
+  {
+    "Key": "ChuanRuCanShuCuoWu",
+    "Translation": "傳入參數錯誤"
+  },
+  {
+    "Key": "HouDuanCanshuWeiKong",
+    "Translation": "後端參數判斷是否為空"
+  },
+  {
+    "Key": "PanDuanDengluZhuangTai",
+    "Translation": "判斷登錄狀態"
+  },
+  {
+    "Key": "PanDuanShiFouYouQuanXian",
+    "Translation": "判斷是否有權限"
+  },
+  {
+    "Key": "FanHuiXinShuJuID",
+    "Translation": "返回新數據的 ID"
+  },
+  {
+    "Key": "WuQuanXian",
+    "Translation": "無權限"
+  },
+  {
+    "Key": "ShuJuMoXingFuZhi",
+    "Translation": "數據模型賦值"
+  },
+  {
+    "Key": "ShiLiHuaDuiXiang",
+    "Translation": "實例化數據訪問層物件，負責資料庫訪問的類"
+  },
+  {
+    "Key": "TianJiaChengGong",
+    "Translation": "添加成功"
+  },
+  {
+    "Key": "TianJiaShiBai",
+    "Translation": "添加失敗"
+  },
+  {
+    "Key": "POSTXiuGaiZhuShi",
+    "Translation": "通過 POST 請求修改數據，參數接收 int 型，若無該參數則默認為 0"
+  },
+  {
+    "Key": "GengXingChengGong",
+    "Translation": "更新成功"
+  },
+  {
+    "Key": "GengXingShiBai",
+    "Translation": "更新失敗"
+  },
+  {
+    "Key": "POSTShanChuZhuShi",
+    "Translation": "通過 POST 請求根據 ID 刪除，並返回刪除的記錄數。"
+  },
+  {
+    "Key": "DouHaoZhiFuZhuanLieBiao",
+    "Translation": "將逗號分隔的字串轉換為整數列表"
+  },
+  {
+    "Key": "ChuShiHuaBianLiang",
+    "Translation": "初始化變數，用於保存要刪除的 ID"
+  },
+  {
+    "Key": "BianLiBingShanChu",
+    "Translation": "遍歷每個 ID，查找並刪除對應的項目"
+  },
+  {
+    "Key": "ShanChuChengGong",
+    "Translation": "删除成功"
+  },
+  {
+    "Key": "ShanChuShiBai",
+    "Translation": "刪除失敗"
+  },
+  {
+    "Key": "GetHuoQuFenYeShuJu",
+    "Translation": "通過 GET 請求獲取分頁數據，通過 Title、Page 和 PageSize 參數控制分頁。"
+  },
+  {
+    "Key": "RuGuoWeiKongFuZhiKong",
+    "Translation": "如果 Title 為 null 或空，設定為 “”，表示不進行篩選"
+  },
+  {
+    "Key": "BuChuanDiBuSaiXuan",
+    "Translation": "不傳遞或傳遞空字串時，查詢時不進行篩選。"
+  },
+  {
+    "Key": "FenYeCanShuShiFouYouXiao",
+    "Translation": "檢查分頁參數是否有效。"
+  },
+  {
+    "Key": "JiSuanKaiShiTiaoShu",
+    "Translation": "計算開始記錄：分頁的第一條數據索引，Page 為當前頁碼，PageSize 為每頁顯示的數據條數。"
+  },
+  {
+    "Key": "JiSuanMeiYeTiaoShu",
+    "Translation": "計算每頁顯示的條數。"
+  },
+  {
+    "Key": "GetFangFa",
+    "Translation": "呼叫 Get 方法從資料庫中獲取數據，並傳入分頁參數：Title、開始記錄、每頁條數。"
+  },
+  {
+    "Key": "DataTableToListZhuanHuan",
+    "Translation": "使用工具方法 DataTableToList 將 DataTable 轉換為 List<T>，其中 T 是 AdminModel 類的實例。"
+  },
+  {
+    "Key": "FanHuiFenYeShuJu",
+    "Translation": "返回分頁數據，使用統一的 API 響應格式，包含狀態碼、訊息、總條數和數據集合。"
+  },
+  {
+    "Key": "ShengChengApi",
+    "Translation": "生成API"
+  },
+  {
+    "Key": "ShengQiTa",
+    "Translation": "生成其它"
+  },
+  {
+    "Key": "ShengChengDalSql",
+    "Translation": "生成Dal(SQL)"
+  },
+  {
+    "Key": "ShengChengDal",
+    "Translation": "生成Dal"
+  },
+  {
+    "Key": "ShengChengModel",
+    "Translation": "生成Model"
+  },
+  {
+    "Key": "ShengChengCunChu",
+    "Translation": "生成存儲過程"
+  },
+  {
+    "Key": "RiZhiBiaoJieGou",
+    "Translation": "日誌表結構"
+  },
+  {
+    "Key": "ShengChengBiaoJieGou",
+    "Translation": "表結構"
+  },
+  {
+    "Key": "ChaKan",
+    "Translation": "查看"
+  },
+  {
+    "Key": "GuanliBiao",
+    "Translation": "管理表"
+  }
+]

@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF - 8">
+    <meta name="viewport" content="width=device-width, initial - scale=1.0">
+    <title>注册页面</title>
+    <style>
+        /* 整体页面布局 */
+        body {
+            font-family: Arial, sans - serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min - height: 100vh;
+            margin: 0;
+        }
+
+        /* 注册表单样式 */
+        form {
+            background-color: white;
+            padding: 20px;
+            border - radius: 5px;
+            box - shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+
+        label {
+            display: block;
+            margin - bottom: 5px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin - bottom: 15px;
+            border: 1px solid #ccc;
+            border - radius: 3px;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border - radius: 3px;
+            cursor: pointer;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery - 3.6.0.min.js"></script>
+</head>
+
+<body>
+    <form id="registerForm">
+        <label for="username">用户名:</label>
+        <input type="text" id="username" name="username" required>
+        <label for="password">密码:</label>
+        <input type="password" id="password" name="password" required>
+        <label for="email">邮箱:</label>
+        <input type="email" id="email" name="email" required>
+        <button type="submit">注册</button>
+    </form>
+    <script>
+        $(document).ready(function () {
+            $('#registerForm').submit(function (e) {
+                e.preventDefault();
+                var formData = {
+                    username: $('#username').val(),
+                    password: $('#password').val(),
+                    email: $('#email').val()
+                };
+                $.post('YOUR_API_URL_HERE', formData, function (response) {
+                    // 根据API的响应进行处理
+                    if (response.success) {
+                        alert('注册成功');
+                    } else {
+                        alert('注册失败: ' + response.message);
+                    }
+                }).fail(function () {
+                    alert('网络错误，请稍后再试');
+                });
+            });
+        });
+    </script>
+</body>
+
+</html>

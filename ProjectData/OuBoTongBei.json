@@ -1,0 +1,609 @@
+[
+  {
+    "TableID": 1,
+    "TableName": "User",
+    "Remarks": "\u7528\u6237\u8868",
+    "About": "",
+    "SortOrder": 0,
+    "Fields": [
+      {
+        "FieldName": "UserID",
+        "DataType": "int",
+        "IsPrimaryKey": true,
+        "IsNotNull": true,
+        "IsAutoIncrement": true,
+        "Description": "\u7528\u6237ID",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u65F6\u95F4",
+        "DefaultValue": "getdate()",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Del",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5220\u96640\u54261\u662F",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UserName",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u7528\u6237\u540D",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Phone",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u624B\u673A\u53F7\u7801",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Password",
+        "DataType": "nvarchar(200)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u767B\u5F55\u5BC6\u7801",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Email",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u90AE\u7BB1",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Province",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u7701\u4EFD",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "City",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5E02",
+        "DefaultValue": "",
+        "Remarks": ""
+      }
+    ]
+  },
+  {
+    "TableID": 2,
+    "TableName": "CompetitionInformation",
+    "Remarks": "\u53C2\u8D5B\u4FE1\u606F\u8868",
+    "About": "",
+    "SortOrder": 0,
+    "Fields": [
+      {
+        "FieldName": "CompetitionInformationID",
+        "DataType": "int",
+        "IsPrimaryKey": true,
+        "IsNotNull": true,
+        "IsAutoIncrement": true,
+        "Description": "\u53C2\u8D5B\u4FE1\u606FID",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u65F6\u95F4",
+        "DefaultValue": "getdate()",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Del",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5220\u96640\u54261\u662F",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "TipsID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6807\u7B7EID",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CompetitionCategory",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u7C7B\u522B",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CompetitionCategorySecond",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5931\u6548\u80FD\u529B\u8D5B\u7C7B\u522B",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Identity",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u8005\u8EAB\u4EFD",
+        "DefaultValue": "0",
+        "Remarks": "0\u672C\u79D1\u751F1\u7814\u7A76\u751F2\u535A\u58EB"
+      },
+      {
+        "FieldName": "Name",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u80051\u59D3\u540D",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "RegionAreaCode",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5730\u533A\u548C\u533A\u53F7",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Phone",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u8005\u624B\u673A\u53F7",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "OtherName",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u80052\u59D3\u540D",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "PhoneSecond",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u80052\u624B\u673A\u53F7",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "School",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u8005\u5B66\u6821/\u5355\u4F4D",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Teacher",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6307\u5BFC\u6559\u5E081",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "TeacherPhone",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6307\u5BFC\u6559\u5E08\u624B\u673A\u53F7",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "OtherTeacher",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6307\u5BFC\u6559\u5E082",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "TeacherPhoneSecond",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6307\u5BFC\u6559\u5E082\u624B\u673A\u53F7",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "StudentIDCard",
+        "DataType": "nvarchar(500)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5B66\u751F\u8BC1",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CompetitionTitle",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u9898\u76EE",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "SelfCreated",
+        "DataType": "nvarchar(500)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u81EA\u521B\u4F5C\u54C1\u58F0\u660E",
+        "DefaultValue": "",
+        "Remarks": ""
+      }
+    ]
+  },
+  {
+    "TableID": 3,
+    "TableName": "CompetitionInformationSet",
+    "Remarks": "\u53C2\u8D5B\u4FE1\u606F\u8868\u63A7\u5236",
+    "About": "",
+    "SortOrder": 3,
+    "Fields": [
+      {
+        "FieldName": "CompetitionInformationSetID",
+        "DataType": "int",
+        "IsPrimaryKey": true,
+        "IsNotNull": true,
+        "IsAutoIncrement": true,
+        "Description": "\u53C2\u8D5B\u4FE1\u606F\u63A7\u5236ID",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u65F6\u95F4",
+        "DefaultValue": "getdate()",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateUserID",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u4EBA",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "UpdateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u66F4\u65B0\u65F6\u95F4",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "Del",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5220\u96640\u54261\u662F",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "TipsIDShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6807\u7B7E\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "CompetitionCategoryShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u7C7B\u522B\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "CompetitionCategorySecondShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5931\u6548\u80FD\u529B\u8D5B\u7C7B\u522B\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "IdentityShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u8005\u8EAB\u4EFD\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "NameShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u8005\u59D3\u540D\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "RegionAreaCodeShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5730\u533A\u548C\u533A\u53F7\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "OtherNameShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u80052\u59D3\u540D\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "PhoneSecondShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u80052\u624B\u673A\u53F7\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "PhoneShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u8005\u624B\u673A\u53F7\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "SchoolShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u8005\u5B66\u6821/\u5355\u4F4D\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "TeacherShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6307\u5BFC\u6559\u5E081\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "TeacherPhoneShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6307\u5BFC\u6559\u5E08\u624B\u673A\u53F7\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "OtherTeacherShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6307\u5BFC\u6559\u5E082\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "TeacherPhoneSecondShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u6307\u5BFC\u6559\u5E082\u624B\u673A\u53F7\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "StudentIDCardShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u5B66\u751F\u8BC1\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "CompetitionTitleShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u53C2\u8D5B\u9898\u76EE\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      },
+      {
+        "FieldName": "SelfCreatedShow",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u81EA\u521B\u4F5C\u54C1\u58F0\u660E\u663E\u793A\u9690\u85CF",
+        "DefaultValue": "0",
+        "Remarks": "0\u9690\u85CF1\u663E\u793A"
+      }
+    ]
+  }
+]
