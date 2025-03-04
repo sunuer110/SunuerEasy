@@ -35,3 +35,14 @@ https://www.sunuer.com/SunuerEasy/
 #### 联系方式
 
 sunuer@sunuer.com
+
+#### 感谢
+感谢以下组件的支持：
+- NET Core（基于 MIT License）
+- ASP.NET Core（基于 MIT License）
+- NPOI（基于 Apache License 2.0 ）
+- LayUI (基于MIT)
+- layuiadmin (基于LPPL)
+- Sortable(基于MIT)
+- jQuery(基于MIT)
+- JSEncrypt(基于MIT)
