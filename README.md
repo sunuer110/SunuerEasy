@@ -1,37 +1,49 @@
 # SunuerEasy
 
 #### 介绍
-Sunuer Easy 旨在简化开发中的重复性工作，如代码生成、数据库字段管理、数据文件组织等。通过自动化提升开发效率，减少重复劳动，让开发者专注于业务逻辑和创新。
+Sunuer Easy 旨在简化开发中的重复性工作，如代码生成、数据库字段管理、数据文件组织等。通过自动化提升开发效率，减少重复劳动，让开发者专注于业务逻辑和创新。与 Sunuer Manage 配合使用，可实现更高效的数据库管理和系统开发
 
-#### 软件架构
-软件架构说明
+#### 主要功能
 
+代码自动生成：根据数据库结构快速生成基础代码，减少手写代码的负担。
 
-#### 安装教程
+数据库字段管理：提供直观的界面管理数据库表及字段，提升维护效率。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+快速备份与还原：可快速备份数据库表结构、快速还原数据库。
 
-#### 使用说明
+无缝集成：可与 Sunuer Manage 结合，优化后台管理和数据操作。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+跨平台支持：兼容 Windows 和 Linux，适用于多种开发环境。
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 依赖环境
+.NET 8
+
+Windows / Linux
+
+SQL Server
+
+
+#### 免费商用
+任何人都可以免费使用
+
+#### 使用文档
+https://www.sunuer.com/SunuerEasy/
+
+
+#### 联系方式
+
+sunuer@sunuer.com
+
+#### 感谢
+感谢以下组件的支持：
+- NET Core
+- ASP.NET Core
+- NPOI
+- LayUI
+- layuiadmin
+- Sortable
+- jQuery
+- JSEncrypt
+...

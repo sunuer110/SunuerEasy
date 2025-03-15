@@ -48,12 +48,6 @@
     "Sorts": 0
   },
   {
-    "ID": 9,
-    "Title": "\u6587\u672C",
-    "DataType": "ntext",
-    "Sorts": 0
-  },
-  {
     "ID": 10,
     "Title": "\u5927\u6587\u672C",
     "DataType": "nvarchar(max)",
