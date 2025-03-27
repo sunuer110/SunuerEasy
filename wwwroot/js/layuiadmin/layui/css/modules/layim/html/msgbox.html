@@ -88,7 +88,7 @@ layui.use(['layim', 'flow'], function(){
         return layer.msg(res.msg);
       }
 
-      //记录来源用户信息
+      //记录来源用户Information
       layui.each(res.data, function(index, item){
         cache[item.from] = item.user;
       });
@@ -97,7 +97,7 @@ layui.use(['layim', 'flow'], function(){
     });
   };
 
-  //消息信息流
+  //消息Information流
   flow.load({
     elem: '#LAY_view' //流加载容器
     ,isAuto: false
@@ -184,7 +184,7 @@ layui.use(['layim', 'flow'], function(){
       var li = othis.parents('li')
       ,uid = li.data('uid');
 
-      layer.confirm('确定拒绝吗？', function(index){
+      layer.confirm('OK拒绝吗？', function(index){
         $.post('/im/refuseFriend', {
           uid: uid //对方用户ID
         }, function(res){

@@ -126,7 +126,7 @@ layui.define(function(exports){
       }, config.time*1000);
     }
     
-    //确认取消
+    //确认Cancel
     var btn = function(){
       var type = this.getAttribute('type');
       if(type == 0){

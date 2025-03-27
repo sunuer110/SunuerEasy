@@ -47,3 +47,9 @@ sunuer@sunuer.com
 - jQuery
 - JSEncrypt
 ...
+#### 更新日志
+2025.03.27
+ -同步现有数据库表结构
+-导出数据库字典（excel）
+-导出数据库字典（Word）
+-创建表到数据库中

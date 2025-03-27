@@ -630,5 +630,61 @@
   {
     "Key": "GuanliBiao",
     "Translation": "Tabla de gestión"
+  },
+  {
+    "Key": "SqlConnection",
+    "Translation": "Cadena de conexión a la base de datos"
+  },
+  {
+    "Key": "TongBuShuJuKu",
+    "Translation": "Sincronizar base de datos"
+  },
+  {
+    "Key": "WeiZhaoDaoXiangMu",
+    "Translation": "Proyecto no encontrado o conexión vacía"
+  },
+  {
+    "Key": "TongBuShuJuKuChengGong",
+    "Translation": "Estructura de base de datos sincronizada correctamente"
+  },
+  {
+    "Key": "WeiTongBuChengGongBiao",
+    "Translation": "Las siguientes tablas no se sincronizaron porque ya existen"
+  },
+  {
+    "Key": "ShuJuKuLianJieCuoWu",
+    "Translation": "Conexión fallida o error en la consulta"
+  },
+  {
+    "Key": "DaoChuZiDian",
+    "Translation": "Exportar diccionario"
+  },
+  {
+    "Key": "BuZhiChiGeShi",
+    "Translation": "Formato de exportación no compatible"
+  },
+  {
+    "Key": "Shi",
+    "Translation": "Sí"
+  },
+  {
+    "Key": "Fou",
+    "Translation": "No"
+  },
+  {
+    "Key": "ShengChengBiao",
+    "Translation": "Generar tabla"
+  },
+  {
+    "Key": "QueRenShengChengBiao",
+    "Translation": "¿Confirmar la creación de la tabla en la base de datos?"
+  },
+  {
+    "Key": "ShuJuBiaoYiCunZai",
+    "Translation": "La tabla ya existe, no es necesario crearla"
+  },
+  {
+    "Key": "ChuangJianBiaoShiBai",
+    "Translation": "Error al crear la tabla"
   }
 ]

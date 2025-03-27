@@ -338,7 +338,7 @@ layui.define(['laytpl', 'upload-mobile', 'layer-mobile', 'zepto'], function(expo
     ,'<div class="layim-chat-text">{{ layui.data.content(d.content||"&nbsp;") }}</div>'
   ,'</li>'].join('');
   
-  //处理初始化信息
+  //处理初始化Information
   var cache = {message: {}, chat: []}, init = function(options){
     var init = options.init || {}
      mine = init.mine || {}
@@ -351,12 +351,12 @@ layui.define(['laytpl', 'upload-mobile', 'layer-mobile', 'zepto'], function(expo
     }, create = function(data){
       var mine = data.mine || {};
       var local = layui.data('layim-mobile')[mine.id] || {}, obj = {
-        base: options //基础配置信息
+        base: options //基础配置Information
         ,local: local //本地数据
-        ,mine:  mine //我的用户信息
-        ,friend: data.friend || [] //联系人信息
-        ,group: data.group || [] //群组信息
-        ,history: local.history || [] //历史会话信息
+        ,mine:  mine //我的用户Information
+        ,friend: data.friend || [] //联系人Information
+        ,group: data.group || [] //群组Information
+        ,history: local.history || [] //历史会话Information
       };
       obj.sortHistory = sort(obj.history, 'historyTime');
       cache = $.extend(cache, obj);

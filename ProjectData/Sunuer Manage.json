@@ -1106,7 +1106,7 @@
     "TableName": "SMSRule",
     "Remarks": "\u9A8C\u8BC1\u7801\u89C4\u5219",
     "About": "",
-    "SortOrder": 0,
+    "SortOrder": 10,
     "Fields": [
       {
         "FieldName": "Rid",
@@ -1155,7 +1155,7 @@
     "TableName": "SMS",
     "Remarks": "\u9A8C\u8BC1\u7801",
     "About": "",
-    "SortOrder": 0,
+    "SortOrder": 9,
     "Fields": [
       {
         "FieldName": "SMSID",

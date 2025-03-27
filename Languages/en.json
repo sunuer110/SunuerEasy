@@ -630,5 +630,61 @@
   {
     "Key": "GuanliBiao",
     "Translation": "Management Table"
+  },
+  {
+    "Key": "SqlConnection",
+    "Translation": "Database Connection String"
+  },
+  {
+    "Key": "TongBuShuJuKu",
+    "Translation": "Sync Database"
+  },
+  {
+    "Key": "WeiZhaoDaoXiangMu",
+    "Translation": "Project not found or database connection is empty"
+  },
+  {
+    "Key": "TongBuShuJuKuChengGong",
+    "Translation": "Database structure synchronized successfully"
+  },
+  {
+    "Key": "WeiTongBuChengGongBiao",
+    "Translation": "The following tables were not synchronized because they already exist"
+  },
+  {
+    "Key": "ShuJuKuLianJieCuoWu",
+    "Translation": "Database connection failed or query error"
+  },
+  {
+    "Key": "DaoChuZiDian",
+    "Translation": "Export Dictionary"
+  },
+  {
+    "Key": "BuZhiChiGeShi",
+    "Translation": "Unsupported export format"
+  },
+  {
+    "Key": "Shi",
+    "Translation": "Yes"
+  },
+  {
+    "Key": "Fou",
+    "Translation": "No"
+  },
+  {
+    "Key": "ShengChengBiao",
+    "Translation": "Generate Table"
+  },
+  {
+    "Key": "QueRenShengChengBiao",
+    "Translation": "Confirm to generate the table in the database?"
+  },
+  {
+    "Key": "ShuJuBiaoYiCunZai",
+    "Translation": "The table already exists in the database, no need to create it"
+  },
+  {
+    "Key": "ChuangJianBiaoShiBai",
+    "Translation": "Failed to create table"
   }
 ]

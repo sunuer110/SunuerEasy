@@ -365,7 +365,7 @@
   },
   {
     "Key": "ZiDuanMingCheng",
-    "Translation": "字段名称"
+    "Translation": "字段名"
   },
   {
     "Key": "ZhuJian",
@@ -413,7 +413,7 @@
   },
   {
     "Key": "QueDingShanChuMe",
-    "Translation": "确定删除吗"
+    "Translation": "OK删除吗"
   },
   {
     "Key": "JiaZaiChuXianYiChang",
@@ -630,5 +630,61 @@
   {
     "Key": "GuanliBiao",
     "Translation": "管理表"
+  },
+  {
+    "Key": "SqlConnection",
+    "Translation": "数据库字符串"
+  },
+  {
+    "Key": "TongBuShuJuKu",
+    "Translation": "同步数据库"
+  },
+  {
+    "Key": "WeiZhaoDaoXiangMu",
+    "Translation": "未找到指定项目或数据库连接为空"
+  },
+  {
+    "Key": "TongBuShuJuKuChengGong",
+    "Translation": "数据库结构同步成功"
+  },
+  {
+    "Key": "WeiTongBuChengGongBiao",
+    "Translation": "以下表因已存在未同步"
+  },
+  {
+    "Key": "ShuJuKuLianJieCuoWu",
+    "Translation": "数据库连接失败或查询错误"
+  },
+  {
+    "Key": "DaoChuZiDian",
+    "Translation": "导出字典"
+  },
+  {
+    "Key": "BuZhiChiGeShi",
+    "Translation": "不支持的导出格式"
+  },
+  {
+    "Key": "Shi",
+    "Translation": "是"
+  },
+  {
+    "Key": "Fou",
+    "Translation": "否"
+  },
+  {
+    "Key": "ShengChengBiao",
+    "Translation": "生成表"
+  },
+  {
+    "Key": "QueRenShengChengBiao",
+    "Translation": "确认在数据库中生成表么"
+  },
+  {
+    "Key": "ShuJuBiaoYiCunZai",
+    "Translation": "数据库中已存在该表，无需创建"
+  },
+  {
+    "Key": "ChuangJianBiaoShiBai",
+    "Translation": "创建表失败"
   }
 ]

@@ -630,5 +630,61 @@
   {
     "Key": "GuanliBiao",
     "Translation": "Verwaltungstabelle"
+  },
+  {
+    "Key": "SqlConnection",
+    "Translation": "Datenbankverbindungszeichenfolge"
+  },
+  {
+    "Key": "TongBuShuJuKu",
+    "Translation": "Datenbank synchronisieren"
+  },
+  {
+    "Key": "WeiZhaoDaoXiangMu",
+    "Translation": "Projekt nicht gefunden oder Datenbankverbindung ist leer"
+  },
+  {
+    "Key": "TongBuShuJuKuChengGong",
+    "Translation": "Datenbankstruktur erfolgreich synchronisiert"
+  },
+  {
+    "Key": "WeiTongBuChengGongBiao",
+    "Translation": "Die folgenden Tabellen wurden nicht synchronisiert, da sie bereits existieren"
+  },
+  {
+    "Key": "ShuJuKuLianJieCuoWu",
+    "Translation": "Datenbankverbindung fehlgeschlagen oder Abfragefehler"
+  },
+  {
+    "Key": "DaoChuZiDian",
+    "Translation": "Wörterbuch exportieren"
+  },
+  {
+    "Key": "BuZhiChiGeShi",
+    "Translation": "Nicht unterstütztes Exportformat"
+  },
+  {
+    "Key": "Shi",
+    "Translation": "Ja"
+  },
+  {
+    "Key": "Fou",
+    "Translation": "Nein"
+  },
+  {
+    "Key": "ShengChengBiao",
+    "Translation": "Tabelle generieren"
+  },
+  {
+    "Key": "QueRenShengChengBiao",
+    "Translation": "Möchten Sie die Tabelle in der Datenbank erstellen?"
+  },
+  {
+    "Key": "ShuJuBiaoYiCunZai",
+    "Translation": "Tabelle existiert bereits, kein Erstellen erforderlich"
+  },
+  {
+    "Key": "ChuangJianBiaoShiBai",
+    "Translation": "Tabellenerstellung fehlgeschlagen"
   }
 ]

@@ -630,5 +630,61 @@
   {
     "Key": "GuanliBiao",
     "Translation": "Таблица управления"
+  },
+  {
+    "Key": "SqlConnection",
+    "Translation": "Строка подключения к базе данных"
+  },
+  {
+    "Key": "TongBuShuJuKu",
+    "Translation": "Синхронизация базы данных"
+  },
+  {
+    "Key": "WeiZhaoDaoXiangMu",
+    "Translation": "Проект не найден или строка подключения пуста"
+  },
+  {
+    "Key": "TongBuShuJuKuChengGong",
+    "Translation": "Структура базы данных успешно синхронизирована"
+  },
+  {
+    "Key": "WeiTongBuChengGongBiao",
+    "Translation": "Следующие таблицы не были синхронизированы, так как уже существуют"
+  },
+  {
+    "Key": "ShuJuKuLianJieCuoWu",
+    "Translation": "Ошибка подключения или запроса к базе данных"
+  },
+  {
+    "Key": "DaoChuZiDian",
+    "Translation": "Экспорт словаря"
+  },
+  {
+    "Key": "BuZhiChiGeShi",
+    "Translation": "Неподдерживаемый формат экспорта"
+  },
+  {
+    "Key": "Shi",
+    "Translation": "Да"
+  },
+  {
+    "Key": "Fou",
+    "Translation": "Нет"
+  },
+  {
+    "Key": "ShengChengBiao",
+    "Translation": "Создать таблицу"
+  },
+  {
+    "Key": "QueRenShengChengBiao",
+    "Translation": "Подтвердите создание таблицы в базе данных?"
+  },
+  {
+    "Key": "ShuJuBiaoYiCunZai",
+    "Translation": "Таблица уже существует, создание не требуется"
+  },
+  {
+    "Key": "ChuangJianBiaoShiBai",
+    "Translation": "Не удалось создать таблицу"
   }
 ]

@@ -47,3 +47,14 @@ Thanks to the support of the following components:
 - jQuery
 - JSEncrypt
 ...
+
+
+#### Update Log
+2025.03.27
+-Synchronize existing database table structure
+
+-Export database dictionary (Excel)
+
+-Export database dictionary (Word)
+
+-Create tables in the database

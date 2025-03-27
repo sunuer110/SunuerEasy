@@ -630,5 +630,61 @@
   {
     "Key": "GuanliBiao",
     "Translation": "管理表"
+  },
+  {
+    "Key": "SqlConnection",
+    "Translation": "資料庫連線字串"
+  },
+  {
+    "Key": "TongBuShuJuKu",
+    "Translation": "同步資料庫"
+  },
+  {
+    "Key": "WeiZhaoDaoXiangMu",
+    "Translation": "未找到指定專案或資料庫連線為空"
+  },
+  {
+    "Key": "TongBuShuJuKuChengGong",
+    "Translation": "資料庫結構同步成功"
+  },
+  {
+    "Key": "WeiTongBuChengGongBiao",
+    "Translation": "以下資料表因已存在未同步"
+  },
+  {
+    "Key": "ShuJuKuLianJieCuoWu",
+    "Translation": "資料庫連線失敗或查詢錯誤"
+  },
+  {
+    "Key": "DaoChuZiDian",
+    "Translation": "匯出字典"
+  },
+  {
+    "Key": "BuZhiChiGeShi",
+    "Translation": "不支援的匯出格式"
+  },
+  {
+    "Key": "Shi",
+    "Translation": "是"
+  },
+  {
+    "Key": "Fou",
+    "Translation": "否"
+  },
+  {
+    "Key": "ShengChengBiao",
+    "Translation": "生成資料表"
+  },
+  {
+    "Key": "QueRenShengChengBiao",
+    "Translation": "確認在資料庫中生成資料表嗎？"
+  },
+  {
+    "Key": "ShuJuBiaoYiCunZai",
+    "Translation": "資料表已存在，無需再次建立"
+  },
+  {
+    "Key": "ChuangJianBiaoShiBai",
+    "Translation": "建立資料表失敗"
   }
 ]

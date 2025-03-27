@@ -630,5 +630,61 @@
   {
     "Key": "GuanliBiao",
     "Translation": "管理テーブル"
+  },
+  {
+    "Key": "SqlConnection",
+    "Translation": "データベース接続文字列"
+  },
+  {
+    "Key": "TongBuShuJuKu",
+    "Translation": "データベースを同期"
+  },
+  {
+    "Key": "WeiZhaoDaoXiangMu",
+    "Translation": "プロジェクトが見つからないか、接続が空です"
+  },
+  {
+    "Key": "TongBuShuJuKuChengGong",
+    "Translation": "データベース構造が正常に同期されました"
+  },
+  {
+    "Key": "WeiTongBuChengGongBiao",
+    "Translation": "以下のテーブルはすでに存在するため同期されませんでした"
+  },
+  {
+    "Key": "ShuJuKuLianJieCuoWu",
+    "Translation": "データベース接続失敗またはクエリエラー"
+  },
+  {
+    "Key": "DaoChuZiDian",
+    "Translation": "辞書をエクスポート"
+  },
+  {
+    "Key": "BuZhiChiGeShi",
+    "Translation": "サポートされていないエクスポート形式"
+  },
+  {
+    "Key": "Shi",
+    "Translation": "はい"
+  },
+  {
+    "Key": "Fou",
+    "Translation": "いいえ"
+  },
+  {
+    "Key": "ShengChengBiao",
+    "Translation": "テーブルを生成"
+  },
+  {
+    "Key": "QueRenShengChengBiao",
+    "Translation": "データベースにテーブルを作成しますか？"
+  },
+  {
+    "Key": "ShuJuBiaoYiCunZai",
+    "Translation": "テーブルはすでに存在しています、作成不要です"
+  },
+  {
+    "Key": "ChuangJianBiaoShiBai",
+    "Translation": "テーブル作成に失敗しました"
   }
 ]
