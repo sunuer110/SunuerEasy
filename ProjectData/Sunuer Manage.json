@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "TableID": 1,
     "TableName": "Admin",
@@ -1235,6 +1235,75 @@
         "IsAutoIncrement": false,
         "Description": "IP",
         "DefaultValue": "",
+        "Remarks": ""
+      }
+    ]
+  },
+  {
+    "TableID": 11,
+    "TableName": "AdminLoginLog",
+    "Remarks": "\u7BA1\u7406\u5458\u65E5\u5FD7",
+    "About": "",
+    "SortOrder": 0,
+    "Fields": [
+      {
+        "FieldName": "ID",
+        "DataType": "int",
+        "IsPrimaryKey": true,
+        "IsNotNull": true,
+        "IsAutoIncrement": true,
+        "Description": "\u7BA1\u7406\u5458\u767B\u9646\u65E5\u5FD7",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "CreateDate",
+        "DataType": "datetime",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u521B\u5EFA\u65F6\u95F4",
+        "DefaultValue": "getdate()",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "AdminName",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u7528\u6237\u540D",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "IsOK",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u767B\u9646\u6210\u529F0\u6210\u529F1\u5931\u8D25",
+        "DefaultValue": "0",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "IP",
+        "DataType": "nvarchar(50)",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u767B\u5F55IP",
+        "DefaultValue": "",
+        "Remarks": ""
+      },
+      {
+        "FieldName": "LoginAttempts",
+        "DataType": "int",
+        "IsPrimaryKey": false,
+        "IsNotNull": false,
+        "IsAutoIncrement": false,
+        "Description": "\u767B\u9646\u5C1D\u8BD5\u6B21\u6570",
+        "DefaultValue": "0",
         "Remarks": ""
       }
     ]
