@@ -1094,7 +1094,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Sep 2024 08:33:03 GMT"
+          "Value": "Thu, 27 Mar 2025 05:36:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1131,7 +1131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Sep 2024 08:33:03 GMT"
+          "Value": "Thu, 27 Mar 2025 05:36:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -12548,51 +12548,6 @@
       ]
     },
     {
-      "Route": "js/layuiadmin/layui/layui.0t4qnbm7bd.js",
-      "AssetFile": "js/layuiadmin/layui/layui.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "368931"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LMKc8+8JDvHH3P6Rh6jg9bFeDoNHAXR6gD6miVir6QE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 06:20:53 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0t4qnbm7bd"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LMKc8+8JDvHH3P6Rh6jg9bFeDoNHAXR6gD6miVir6QE="
-        },
-        {
-          "Name": "label",
-          "Value": "js/layuiadmin/layui/layui.js"
-        }
-      ]
-    },
-    {
       "Route": "js/layuiadmin/layui/layui.all.js",
       "AssetFile": "js/layuiadmin/layui/layui.all.js",
       "Selectors": [],
@@ -12689,7 +12644,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "368931"
+          "Value": "369003"
         },
         {
           "Name": "Content-Type",
@@ -12697,17 +12652,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LMKc8+8JDvHH3P6Rh6jg9bFeDoNHAXR6gD6miVir6QE=\""
+          "Value": "\"BkxdoKJxIGLOO1dwRa9fxz+bshnTQOgR62/TcFFGCN0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 06:20:53 GMT"
+          "Value": "Thu, 27 Mar 2025 05:36:50 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LMKc8+8JDvHH3P6Rh6jg9bFeDoNHAXR6gD6miVir6QE="
+          "Value": "sha256-BkxdoKJxIGLOO1dwRa9fxz+bshnTQOgR62/TcFFGCN0="
+        }
+      ]
+    },
+    {
+      "Route": "js/layuiadmin/layui/layui.uf8luewfqj.js",
+      "AssetFile": "js/layuiadmin/layui/layui.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "369003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BkxdoKJxIGLOO1dwRa9fxz+bshnTQOgR62/TcFFGCN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 05:36:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uf8luewfqj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BkxdoKJxIGLOO1dwRa9fxz+bshnTQOgR62/TcFFGCN0="
+        },
+        {
+          "Name": "label",
+          "Value": "js/layuiadmin/layui/layui.js"
         }
       ]
     },
